@@ -1,4 +1,33 @@
 #EXTM3U
+#EXTINF:-1 group-title="香港",翡翠台
+https://cdn.hkdtmb.com/hls/81/index.m3u8
+#EXTINF:-1 group-title="香港",翡翠台 (中英字幕)
+https://cdn.hkdtmb.com/hls/81b/index.m3u8
+#EXTINF:-1 group-title="香港",J2台
+https://cdn.hkdtmb.com/hls/82/index.m3u8
+#EXTINF:-1 group-title="香港",無綫新聞台
+https://cdn.hkdtmb.com/hls/83/index.m3u8
+#EXTINF:-1 group-title="香港",明珠台
+https://cdn.hkdtmb.com/hls/84/index.m3u8
+#EXTINF:-1 group-title="香港",明珠台 (粵語聲道)
+https://cdn.hkdtmb.com/hls/84b/index.m3u8
+#EXTINF:-1 group-title="香港",無綫財經·資訊台
+https://cdn.hkdtmb.com/hls/85/index.m3u8
+#EXTINF:-1 group-title="香港",ViuTV
+https://cdn.hkdtmb.com/hls/99/index.m3u8
+#EXTINF:-1 group-title="香港",ViuTV Six
+https://cdn.hkdtmb.com/hls/96/index.m3u8
+#EXTINF:-1 group-title="香港",港台電視31
+https://cdn.hkdtmb.com/hls/31/index.m3u8
+#EXTINF:-1 group-title="香港",港台電視32
+https://cdn.hkdtmb.com/hls/32/index.m3u8
+#EXTINF:-1 group-title="香港",港台電視33
+https://cdn.hkdtmb.com/hls/33/index.m3u8
+#EXTINF:-1 group-title="香港",香港開電視
+https://cdn.hkdtmb.com/hls/77/index.m3u8
+#EXTINF:-1 group-title="香港",香港國際財經台
+https://cdn.hkdtmb.com/hls/76/index.m3u8
+
 #EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="港澳台1",民视
 rtmp://59.124.75.157/sat/tv051
 #EXTINF:-1 tvg-id="6026" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="港澳台1",台视
