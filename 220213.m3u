@@ -26,6 +26,86 @@ https://cdn.hkdtmb.com/hls/77/index.m3u8
 #EXTINF:-1 group-title="香港",香港國際財經台
 https://cdn.hkdtmb.com/hls/76/index.m3u8
 
+#EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",翡翠台
+http://iptv.tvfix.org/hls/jade2.m3u8
+#EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",翡翠华丽台
+http://iptv.tvfix.org/hls/jadenhk.m3u8
+#EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png",J2
+http://iptv.tvfix.org/hls/j2.m3u8
+#EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png",明珠台
+http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_
+#EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png",明珠台
+http://iptv.tvfix.org/hls/pearl.m3u8
+#EXTINF:-1 group-title="香港" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQ2QS.png",无线新闻
+http://iptv.tvfix.org/hls/inews.m3u8
+#EXTINF:-1 group-title="香港" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQhRH.png",无线财经
+http://iptv.tvfix.org/hls/finance.m3u8
+#EXTINF:-1 group-title="香港" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQ2QS.png",无线直播
+http://www.chahaoquan.com/wz/epg/tvb.php?id=4
+
+#EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",TVB经典(港版)
+http://iptv.tvfix.org/hls/tvbjd.m3u8
+#EXTINF:-1 group-title="香港"  tvg-name="TVB Xing He HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png",TVB星河频道
+http://iptv.tvfix.org/hls/tvbxh.m3u8
+#EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png",TVB经典台
+http://iptv.tvfix.org/hls/tvbjd.m3u8
+#EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png",TVB为食台
+http://iptv.tvfix.org/hls/tvbws.m3u8
+#EXTINF:-1 group-title="香港"  tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/60/Mei_Ah_Movies_Channel_logo.png",美亚电影台粤语
+http://iptv.tvfix.org/hls/mydy.m3u8
+#EXTINF:-1 group-title="香港"  tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/60/Mei_Ah_Movies_Channel_logo.png",美亚电影台国语
+http://iptv.tvfix.org/hls/mydy2.m3u8
+#EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png",有线新闻台
+https://api.leonardpark.dev/live/icable/109
+#EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png",有线财经资讯台
+https://api.leonardpark.dev/live/icable/108
+#EXTINF:-1 group-title="香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/16/I-CABLE_Live_News_Channel.png",有线直播新闻台
+https://api.leonardpark.dev/live/icable/110
+#EXTINF:-1 group-title="香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/05/I-CABLE_Sports_Channel.png",有线体育台
+
+#EXTINF:-1 group-title="香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f5/I-CABLE_Channel18.png",有线18
+rtmp://59.124.75.157/sat/hk041
+
+#EXTINF:-1 group-title="香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f5/I-CABLE_Channel18.png",有线603hd
+
+
+#EXTINF:-1 group-title="香港" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/320px-RTHK_TV_31.svg.png"",Now Sports Prime
+http://livetv.dnsfor.me/channel.12.m3u8
+
+#EXTINF:-1 group-title="香港" tvg-logo="https://news.now.com/revamp2014/images/logo.png",Now新闻332台
+http://livetv.dnsfor.me:80/channel.4.m3u8
+#EXTINF:-1 group-title="香港" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Now_Live_News_logo.svg/320px-Now_Live_News_logo.svg.png",Now直播331台
+http://livetv.dnsfor.me:80/channel.3.m3u8
+#EXTINF:-1 group-title="香港" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Now_Live_News_logo.svg/320px-Now_Live_News_logo.svg.png,Now直播331台
+https://api.leonardpark.dev/live/now/331
+#EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png",ViuTV
+http://iptv.tvfix.org/hls/viutv.m3u8
+#EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png",ViuTV
+http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
+
+#EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png",ViuTV6
+http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
+#EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png",凤凰中文
+http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
+
+#EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",凤凰资讯
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+
+#EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png",凤凰香港
+http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
+
+#EXTINF:-1 group-title="香港" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/320px-RTHK_TV_31.svg.png",RHK31
+http://iptv.tvfix.org/hls/rthk31.m3u8
+#EXTINF:-1 group-title="香港" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/320px-RTHK_TV_32.svg.png",RHK32
+http://iptv.tvfix.org/hls/rthk32.m3u8
+
+#EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png",香港开电视
+http://iptv.tvfix.org/hls/opentv.m3u8
+
+
+#EXTINF:-1 group-title="香港" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQimw.png",经典功夫台
+http://103.140.229.13/BOBO/bibi.php?id=21715386
+
 #EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="台湾",民视
 rtmp://59.124.75.157/sat/tv051
 #EXTINF:-1 tvg-id="6026" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="台湾",台视
