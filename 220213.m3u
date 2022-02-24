@@ -298,11 +298,11 @@ http://117.148.179.154/PLTV/88888888/224/3221231712/index.m3u8
 http://117.148.179.144/PLTV/88888888/224/3221231483/index.m3u8
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实
 http://117.148.179.141/PLTV/88888888/224/3221231582/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",江苏教育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",江苏教育
 http://117.148.179.158/PLTV/88888888/224/3221231631/index.m3u8
 #EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="地方",优漫卡通
 http://117.148.179.183/PLTV/88888888/224/3221231574/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",山东教育卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",山东教育卫视
 http://117.148.179.157/PLTV/88888888/224/3221231549/index.m3u8
 #EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="上海",东方影视
 http://117.148.179.166/PLTV/88888888/224/3221231639/index.m3u8
@@ -314,13 +314,13 @@ http://117.148.179.165/PLTV/88888888/224/3221231618/index.m3u8
 http://117.148.179.168/PLTV/88888888/224/3221230739/index.m3u8
 #EXTINF:-1 tvg-id="1980" tvg-name="幸福彩" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xingfucai.png" group-title="上海",幸福彩
 http://117.148.179.156/PLTV/88888888/224/3221231730/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",东方财经浦东
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",东方财经浦东
 http://117.148.179.176/PLTV/88888888/224/3221231646/index.m3u8
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="上海",哈哈炫动
 http://117.148.179.136/PLTV/88888888/224/3221231480/index.m3u8
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="上海",哈哈炫动
 http://117.148.179.36/PLTV/88888888/224/3221229065/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",法治天地
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",法治天地
 http://117.148.179.182/PLTV/88888888/224/3221231597/index.m3u8
 
 
@@ -386,7 +386,7 @@ http://117.148.179.167/PLTV/88888888/224/3221231598/index.m3u8
 http://117.148.179.167/PLTV/88888888/224/3221231616/index.m3u8
 #EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="地方",CCTV-高尔夫网球
 http://117.148.179.160/PLTV/88888888/224/3221231619/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CCTV-央视文化精品
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",CCTV-央视文化精品
 http://117.148.179.147/PLTV/88888888/224/3221231561/index.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN
 http://117.148.179.174/PLTV/88888888/224/3221231592/index.m3u8
@@ -394,15 +394,15 @@ http://117.148.179.174/PLTV/88888888/224/3221231592/index.m3u8
 http://117.148.179.144/PLTV/88888888/224/3221231492/index.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN法语
 http://117.148.179.156/PLTV/88888888/224/3221231550/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CETV1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",CETV1
 http://117.148.179.156/PLTV/88888888/224/3221231714/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CETV1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",CETV1
 http://117.148.179.149/PLTV/88888888/224/3221231552/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CETV2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",CETV2
 http://117.148.179.162/PLTV/88888888/224/3221231607/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CETV3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",CETV3
 http://117.148.179.136/PLTV/88888888/224/3221231543/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CETV4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",CETV4
 http://112.15.230.48/PLTV/88888888/224/3221230334/index.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="地方",CHC动作电影
 http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8
