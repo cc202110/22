@@ -1259,6 +1259,25 @@ Channel 8,mitv://ns2.hellotvvod.com:9906/3b6cc98613aa4e379ad0f4ffb2e59dee
 
 $c_start 马来$c_end
 🇲🇾马来頻道,#genre#
+AEC,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Aec/playlist.m3u8
+翡翠华丽台,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Wlt/playlist.m3u8
+欢喜台,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Huahee/playlist.m3u8
+爱奇艺,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Qiyi/playlist.m3u8
+全佳,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Quanjia/playlist.m3u8
+双星,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Shuangxing/playlist.m3u8
+TVB 星河,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Xinhe/playlist.m3u8
+小太阳,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Xiaotaiyang/playlist.m3u8
+AOD HD,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/AodHD/playlist.m3u8
+天映频道,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Celestial/playlist.m3u8
+TV1,http://ublive.kozow.com/smart/smart.php?url=http://50.7.92.74:8278/TV1/playlist.m3u8
+TV8,http://ublive.kozow.com/smart/smart.php?url=http://50.7.92.74:8278/TV8/playlist.m3u8
+Mediacorp CH-5,http://ublive.kozow.com/smart/smart.php?url=http://50.7.92.74:8278/Channel5HD/playlist.m3u8
+Mediacorp CH-8,http://ublive.kozow.com/smart/smart.php?url=http://50.7.92.74:8278/Channel8HD/playlist.m3u8
+Mediacorp CH-U,http://ublive.kozow.com/smart/smart.php?url=http://50.7.92.74:8278/ChannelU/playlist.m3u8
+Awani,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Awani/playlist.m3u8
+RTM Sports HD,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Rtmsport/playlist.m3u8
+ASSP 5,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Assp5/playlist.m3u8
+
 Astro歡喜台,mitv://ns2.hellotvvod.com:9906/d3f47d1dbb174a9abea701a048928bfb
 Astro全佳,mitv://ns2.hellotvvod.com:9906/bda13a24baf24436ae722275cbb85345
 Astro雙星,mitv://ns2.hellotvvod.com:9906/7872926c51f9451fb86342414e0d32f5
