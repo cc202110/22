@@ -1,6 +1,7 @@
 
 $c_start 测试$c_end
 测试,#genre#
+有线新闻,rtmp://v3948069e.live.126.net/live/8ad6da5302022e3a8b67ccc9848614e/ggbox/index
 CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 
 euronews,http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/43
