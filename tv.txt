@@ -1,7 +1,7 @@
 
 $c_start 测试$c_end
 测试,#genre#
-
+euronews,http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/43
 77,mitv://ns2.hellotvvod.com:9906/608965b9eef84266946ad5598a892db9
 5555,p2p://ns2.hellotvvod.com:9906/608965b9eef84266946ad5598a892db9
 人间,P2p://ns2.hellotvvod.com:9906/e398496abbdb428e811a8b7a7f5264ce
