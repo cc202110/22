@@ -1,6 +1,8 @@
 
 $c_start 测试$c_end
 测试,#genre#
+CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+CNN,https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 euronews,http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/43
 77,mitv://ns2.hellotvvod.com:9906/608965b9eef84266946ad5598a892db9
 5555,p2p://ns2.hellotvvod.com:9906/608965b9eef84266946ad5598a892db9
