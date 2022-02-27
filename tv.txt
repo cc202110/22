@@ -29,7 +29,7 @@ ABC Australia HD,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e
 
 
 $c_start 香港内置解码1$c_end
-🌟香港内置解码,#genre#
+内置解码,#genre#
 切换内置解码,
 重启软件,
 其他分类软解,
@@ -63,7 +63,7 @@ ViuTV,https://cdn.hkdtmb.com/raw/99.ts
 ViuTV Six,https://cdn.hkdtmb.com/raw/96.ts
 
 $c_start 冬奥$c_end
-🌟冬奥,#genre#
+冬奥,#genre#
 
 CCTV奥林匹克,http://39.135.138.60:18890/TVOD/88888910/224/3221226233/index.m3u8
 CCTV奥林匹克,http://39.135.138.60:18890/TVOD/88888910/224/3221226230/index.m3u8
@@ -109,10 +109,10 @@ Eurosport HD,mitv://ns2.hellotvvod.com:9906/047ba1fc376a4ef88c305a659fbb236f
 
 
 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 $c_start 央视$c_end
-🇨🇳CCTV央视,#genre#
+央视,#genre#
 
 CCTV1-综合频道,http://117.148.179.155/PLTV/88888888/224/3221231468/index.m3u8
 CCTV1-综合频道,http://117.148.179.155/PLTV/88888888/224/3221231471/index.m3u8
@@ -159,11 +159,11 @@ CHC家庭影院,http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8
 CCTV14M2160HDR,http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
 CCTV16-4K 25M2160,http://223.110.235.9/ott.js.chinamobile.com/PLTV/3/224/3221228168/index.m3u8
 CCTV16-4K 34M2160HDR,http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221228127/index.m3u8
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 $c_start 卫视$c_end
-🛰️卫视高清,#genre#
+卫视,#genre#
 湖南衛視,http://117.148.179.172/PLTV/88888888/224/3221231729/index.m3u8
 湖南衛視,http://117.148.179.135/PLTV/88888888/224/3221230206/index.m3u8
 湖南衛視,http://117.148.179.148/PLTV/88888888/224/3221230824/index.m3u8
@@ -240,7 +240,7 @@ $c_start 卫视$c_end
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 $c_start 港台$c_end
-🛰️港台,#genre#
+港台,#genre#
 HKC有线新闻台,rtmp://v3948069e.live.126.net/live/8ad6da5302022e3a8b67ccc9848614e/ggbox/index
 
 无线新闻台,http://ye23.win/iptv/tvb.php?id=1
@@ -395,23 +395,6 @@ ELEVEN SPORTS 2,http://211.23.114.106:8567/http/59.120.8.187:8078/hls/26/80/espo
 亚洲旅游台,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 中台湾生活网,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
 寰宇新闻台,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
-
-中视,http://50.7.61.148:30080/Entry/ctv
-台视,http://50.7.61.148:30080/Entry/ttv
-华视,http://50.7.61.147:30080/Entry/cts
-TLC,http://50.7.61.147:30080/Entry/tlc
-JET综合,http://50.7.61.147:30080/Entry/jet
-SET三立台湾,http://50.7.61.148:30080/Entry/settw-
-卫视中文,http://50.7.61.148:30080/Entry/starchinese
-AXN,http://50.7.61.148:30080/Entry/axn
-HBO,http://50.7.61.148:30080/Entry/hbo
-东森新闻,http://50.7.61.147:30080/Entry/etnews
-民视新闻,http://50.7.61.148:30080/Entry/ftvnews
-TVBS新闻,http://50.7.61.148:30080/Entry/tvbsnews
-非凡商业,http://50.7.61.147:30080/Entry/ubnbus
-
-寰宇新闻台,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
-寰宇新闻台,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
 亚洲旅游台,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 博斯运动2,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
 智林体育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
@@ -437,7 +420,7 @@ arirang,http://58.99.33.16:1935/liveedge17/live_158_3.stream/chunklist.m3u8
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 $c_start 澳门$c_end
-🛰️澳门频道,#genre#
+澳门,#genre#
 澳视澳门,http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8
 澳视澳门,http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
 澳视葡文,http://103.233.191.132:1935/ch2/ch2.live/playlist.m3u8
@@ -475,18 +458,11 @@ $c_start 澳门$c_end
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-新加坡,#genre#
-Channel 3,mitv://ns2.hellotvvod.com:9906/2e46441b0c394a299265bdb987a3b1bd
-Channel 4050,mitv://ns2.hellotvvod.com:9906/5872600c6bc244af95ffd83ed1872bd6
-Channel 5,mitv://ns2.hellotvvod.com:9906/28f5f261eda34cd394050fbe4b2feb48
-Channel 7,mitv://ns2.hellotvvod.com:9906/d0b4b5fbef06418080f3e874eae9fd38
-Channel 8,mitv://ns2.hellotvvod.com:9906/3b6cc98613aa4e379ad0f4ffb2e59dee
 
 
 $c_start 马来$c_end
-🇲🇾马来頻道,#genre#
+马来,#genre#
 AEC,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Aec/playlist.m3u8
 翡翠华丽台,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Wlt/playlist.m3u8
 欢喜台,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Huahee/playlist.m3u8
@@ -512,7 +488,7 @@ ASSP 5,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Assp
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 $c_start 日本$c_end
-🇯🇵日本頻道,#genre#
+日本,#genre#
 NHK,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 NHK,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 NHK,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
@@ -526,7 +502,7 @@ Animax,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 $c_start 韩国$c_end
-🇰🇷韩国頻道,#genre#
+韩国,#genre#
 
 TJB SBS ,http://1.245.74.5:1935/live/tv/.m3u8
 KBS World,https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
@@ -552,8 +528,8 @@ NBS Korea Agricultural Broadcasting[1280*720],https://media.joycorp.co.kr:4443/l
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-$c_start 海外$c_end
-🇺🇳海外頻道,#genre#
+$c_start 美国$c_end
+美国,#genre#
 HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca
 摇滚娱乐,https://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8?bycoca
 摇滚至尊,https://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8?bycoca
@@ -632,7 +608,7 @@ CBSN Live Event (720p),https://cbsnewshd-lh.akamaihd.net/i/cbsnewsLivePlayer_1@1
 
 
 $c_start 体育$c_end
-⚽️體育頻道,#genre#
+體育,#genre#
 
 CCTV5,http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
 CCTV5,http://140.207.241.2:8080/live/program/live/cctv5hd/4000000/mnf.m3u8
@@ -669,69 +645,40 @@ TNTSPORTS 5[1280*720],https://glxlmn026c.singularcdn.net.br/playout_05/playlist-
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 $c_start 4K$c_end
-🎞️4K頻道,#genre#
+4K,#genre#
 CCTV8K超高清,http://117.148.179.157/PLTV/88888888/224/3221233350/index.m3u8
 CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8#http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=13&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-4K UHD,http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
-4K UHD,http://ott.js.chinamobile.com/TVOD/3/224/3221228242/index.m3u8
+
 CCTV4K HDR,https://p.ggiptv.com/v/4k.m3u8
 CCTV4K HDR,http://ye23.win/iptv/4k.cctv.php
 CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-CCTV奥林匹克4K HDR,http://223.110.235.9/ott.js.chinamobile.com/TVOD/3/224/3221228168/index.m3u8
-CCTV奥林匹克4K HDR,http://223.110.235.24/ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
-CCTV奥林匹克4K HDR,http://ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
-CCTV奥林匹克4K,http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228168/index.m3u8
-CCTV奥林匹克4K,http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
-
-
+CCTV奥运4k,http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226283/1/index.m3u8?fmt=ts2hls
 北京IPTV4K,http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND 
 北京IPTV淘电影,http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO7Z60nQmH%2FQdgWVzAI0y58w%3D%3D%3A20211105223205%2C10000100000000050000000003887498%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 
 北京IPTV淘剧场,http://39.134.134.88/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOtChdQBj46BMs%2FmbjOB0PZw%3D%3D%3A20211105223205%2C10000100000000050000000003887499%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-4K修复,http://223.110.235.21:80/wh7f454c46tw2065242376_643205074/ott.js.chinamobile.com/TVOD/3/224/3221228141/index.m3u8
-LOVE4K,http://177.20.208.58:8000/play/a03r/index.m3u8
-FashionTV,https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-广东珠江4K,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=79&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-SiTV欢笑剧场 12M2160,http://223.110.235.27/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
 
-纯享4K 21M2160HDR,http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221228165/index.m3u8
-4K修复 7M2160HEVC,http://223.110.236.19/ott.js.chinamobile.com/PLTV/3/224/3221228141/index.m3u8
-未知4K 4M2160,http://223.110.236.5/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
-未知4K 2M2160,http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221227896/index.m3u8
 广东综艺4k,http://astream.apk1088.com:18888/channel.php?id=GDZYHD4K_38000
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 QXTV4k,http://101.33.26.234/d1--cn-gotcha04.bilivideo.com/live-bvc/698138/live_429652939_44047359.flv
-欢笑剧场4k,http://[2409:8087:7001:20:2::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
-CCTV奥运4k,http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226283/1/index.m3u8?fmt=ts2hls
 
 纯享4k,http://[2409:8087:3800:2020:1000::81d]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225786/index.m3u8
-
 纯享4k,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
-
 绚影4K,http://182.136.139.72:4022/rtp/239.93.42.33:5140
 
-CCTV4K(HDR),http://[240e:9f:c04f:1::2]/live.rxip.sc96655.com/live/ys4Kcq.m3u8
-CCTV16 4K(HDR),http://[240e:9f:c04f:1::2]/live.rxip.sc96655.com/live/CCTV-16-4K.m3u8
-北京冬奥4k(HDR),http://[240e:9f:c04f:1::2]/live.rxip.sc96655.com/live/dajs-4k.m3u8
-欢笑剧场4k(HDR),http://[240e:9f:c04f:1::2]/live.rxip.sc96655.com/live/hxjc-4k.m3u8
-
-4K超高清电影,http://[240e:9f:c04f:1::2]/live.rxip.sc96655.com/live/emdy4k.m3u8
-
-河南卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
-北京IPTV4K超清,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR+0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52/rO/0g1FiOsgmHLskIhGej57NNTIcVyR/C8/qFakBO3+2/Lci77HWE/MDUdCEgEA==,,END
 爱上4K,http://111.20.33.93/PLTV/88888893/224/3221226352/index.m3u8
 1MV4K,http://136.243.42.146:1499
 VTC13 4K,http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
 Clarity4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 LoveNature4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 $c_start 音乐$c_end
 
-🎵音乐頻道,#genre#
+音乐,#genre#
 HD音樂頻道,http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 otpaha,http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/chunklist.m3u8
 HONOE音樂,http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
@@ -754,7 +701,7 @@ CMT Equal Play,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f68f53
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 $c_start 斗鱼$c_end
-🐟斗鱼頻道,#genre#
+斗鱼,#genre#
 
 斗鱼5,http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
 斗鱼6,http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
@@ -771,7 +718,7 @@ $c_start 斗鱼$c_end
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 $c_start migu$c_end
-🐱咪咕頻道,#genre#
+咪咕,#genre#
 MIGU古天乐影院,http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8
 MIGU成龙作品集,http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8
 MIGU郭富城影院,http://117.148.179.152/PLTV/88888888/224/3221231688/index.m3u8
@@ -925,14 +872,6 @@ K K_开心影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 60.枪战影片,http://epg.112114.xyz/douyu/10240510
 61.国外电影,http://epg.112114.xyz/douyu/9683979
 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥
-=============================================================================================================================================
-
-
-¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥
-=============================================================================================================================================
 ¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥
 
 $c_start 港台126 $c_end
@@ -1257,12 +1196,6 @@ ELEVEN SPORTS 2,http://59.125.101.187:8567/http/59.120.8.187:8078/hls/26/80/espo
 好消息,http://59.125.101.187:8508/http/61.221.81.94:8088/hls/74/816/ch53.m3u8 
 =============================================================================================================================================
 =============================================================================================================================================
-=============================================================================================================================================
-=============================================================================================================================================
-=============================================================================================================================================
-=============================================================================================================================================
-=============================================================================================================================================
-=============================================================================================================================================
 $c_start VB161大陆 $c_end
 TVB161大陆,#genre#
 明珠台,http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
@@ -1305,7 +1238,7 @@ VIU TV,http://livetv.dnsfor.me:80/channel.20.m3u8
 星空卫视,http://livetv.dnsfor.me:80/channel.22.m3u8
 UNIVERSE TV,http://livetv.dnsfor.me:80/channel.23.m3u8
 亚旅卫视,http://livetv.dnsfor.me:80/channel.24.m3u8
-=============================================================================================================================================
+
 =============================================================================================================================================
 $c_start 外台湾58 $c_end
 外台湾58,#genre#
@@ -1324,7 +1257,7 @@ TV5monde,http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
 寰宇新闻台,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
 亚洲旅游台,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 
-=============================================================================================================================================
+
 =============================================================================================================================================
 $c_start 外台湾125 $c_end
 外台湾@卡125,#genre#
@@ -1385,9 +1318,9 @@ TVBS新聞台 HD,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 三立iNews,http://seb.sason.top/sc/slinews_fhd.m3u8
 三立Live新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
 
+
 =============================================================================================================================================
-=============================================================================================================================================
-移动CDN修改版,#genre#
+北京,#genre#
 北京影视[1280*720],http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=
 http://ivi.bupt.edu.cn/hls/btv4hd.m3u8
 北京文艺[1280*720],http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=
@@ -1398,7 +1331,6 @@ http://ivi.bupt.edu.cn/hls/btv4hd.m3u8
 卡酷少儿[1920*1080],http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=
 卡酷少儿[1047*576],http://183.207.248.71/gitv/live1/G_KAKU/G_KAKU
 
-=============================================================================================================================================
 =============================================================================================================================================
 
 
