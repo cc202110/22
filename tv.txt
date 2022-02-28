@@ -1,6 +1,7 @@
 
 $c_start 测试$c_end
 测试,#genre#
+HOT,P2p://ns2.hellotvvod.com:9906/604c896000002f44ba234c2e19716622
 555,P2p://ns2.hellotvvod.com:9906/80a69d7d30684a3b9d13d0010299357e.ts@@73
 
 
