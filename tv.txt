@@ -1,15 +1,14 @@
 
 $c_start 测试$c_end
 测试,#genre#
-HOT,P2p://ns2.hellotvvod.com:9906/604c896000002f44ba234c2e19716622
-555,P2p://ns2.hellotvvod.com:9906/80a69d7d30684a3b9d13d0010299357e.ts@@73
-
 
 
 
 $c_start 新闻$c_end
 新闻,#genre#
-
+CCTV-13新闻,rtsp://183.252.166.199/PLTV/88888888/224/3221226104/10000100000000060000000002298296_0.smil
+CCTV-13新闻,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226104/10000100000000060000000002298296_0.smil
+CCTV13,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
 CCTV13,http://39.135.138.60:18890/TVOD/88888910/224/3221225638/index.m3u8
 北京新聞,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?
 北京新聞,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=.
