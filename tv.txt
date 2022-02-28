@@ -28,39 +28,7 @@ ABC Australia HD,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e
 CNBC Asia,p5p://fccs.123178.top:9906/604643c100068849088b8e0fef813f1c.ts
 CNN/US HD,p5p://fccs.123178.top:9906/6163fbe0000960a10dede6a22930a24d
 
-$c_start 香港内置解码1$c_end
-内置解码,#genre#
-切换内置解码,
-重启软件,
-其他分类软解,
-翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
-翡翠台 (中英字幕),https://cdn.hkdtmb.com/hls/81b/index.m3u8
-J2台,https://cdn.hkdtmb.com/hls/82/index.m3u8
-無綫新聞台,https://cdn.hkdtmb.com/hls/83/index.m3u8
-明珠台,https://cdn.hkdtmb.com/hls/84/index.m3u8
-明珠台 (粵語聲道),https://cdn.hkdtmb.com/hls/84b/index.m3u8
-無綫財經·資訊台,https://cdn.hkdtmb.com/hls/85/index.m3u8
-ViuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8
-ViuTV Six,https://cdn.hkdtmb.com/hls/96/index.m3u8
-港台電視31,https://cdn.hkdtmb.com/hls/31/index.m3u8
-港台電視32,https://cdn.hkdtmb.com/hls/32/index.m3u8
-港台電視33,https://cdn.hkdtmb.com/hls/33/index.m3u8
-香港開電視,https://cdn.hkdtmb.com/hls/77/index.m3u8
-香港國際財經台,https://cdn.hkdtmb.com/hls/76/index.m3u8
-港台電視31,https://cdn.hkdtmb.com/raw/31.ts
-港台電視32,https://cdn.hkdtmb.com/raw/32.ts
-港台電視33,https://cdn.hkdtmb.com/raw/33.ts
-香港開電視,https://cdn.hkdtmb.com/raw/77.ts
-香港國際財經台,https://cdn.hkdtmb.com/raw/76.ts
-翡翠台,https://cdn.hkdtmb.com/raw/81.ts
-翡翠台 (中英字幕),https://cdn.hkdtmb.com/raw/81b.ts
-J2台,https://cdn.hkdtmb.com/raw/82.ts
-無綫新聞台,https://cdn.hkdtmb.com/raw/83.ts
-明珠台,https://cdn.hkdtmb.com/raw/84.ts
-明珠台 (粵語聲道),https://cdn.hkdtmb.com/raw/84b.ts
-無綫財經·資訊台,https://cdn.hkdtmb.com/raw/85.ts
-ViuTV,https://cdn.hkdtmb.com/raw/99.ts
-ViuTV Six,https://cdn.hkdtmb.com/raw/96.ts
+
 
 
 
@@ -191,6 +159,39 @@ $c_start 卫视$c_end
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+$c_start 香港内置解码1$c_end
+内置解码,#genre#
+切换内置解码,
+重启软件,
+其他分类软解,
+翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
+翡翠台 (中英字幕),https://cdn.hkdtmb.com/hls/81b/index.m3u8
+J2台,https://cdn.hkdtmb.com/hls/82/index.m3u8
+無綫新聞台,https://cdn.hkdtmb.com/hls/83/index.m3u8
+明珠台,https://cdn.hkdtmb.com/hls/84/index.m3u8
+明珠台 (粵語聲道),https://cdn.hkdtmb.com/hls/84b/index.m3u8
+無綫財經·資訊台,https://cdn.hkdtmb.com/hls/85/index.m3u8
+ViuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8
+ViuTV Six,https://cdn.hkdtmb.com/hls/96/index.m3u8
+港台電視31,https://cdn.hkdtmb.com/hls/31/index.m3u8
+港台電視32,https://cdn.hkdtmb.com/hls/32/index.m3u8
+港台電視33,https://cdn.hkdtmb.com/hls/33/index.m3u8
+香港開電視,https://cdn.hkdtmb.com/hls/77/index.m3u8
+香港國際財經台,https://cdn.hkdtmb.com/hls/76/index.m3u8
+港台電視31,https://cdn.hkdtmb.com/raw/31.ts
+港台電視32,https://cdn.hkdtmb.com/raw/32.ts
+港台電視33,https://cdn.hkdtmb.com/raw/33.ts
+香港開電視,https://cdn.hkdtmb.com/raw/77.ts
+香港國際財經台,https://cdn.hkdtmb.com/raw/76.ts
+翡翠台,https://cdn.hkdtmb.com/raw/81.ts
+翡翠台 (中英字幕),https://cdn.hkdtmb.com/raw/81b.ts
+J2台,https://cdn.hkdtmb.com/raw/82.ts
+無綫新聞台,https://cdn.hkdtmb.com/raw/83.ts
+明珠台,https://cdn.hkdtmb.com/raw/84.ts
+明珠台 (粵語聲道),https://cdn.hkdtmb.com/raw/84b.ts
+無綫財經·資訊台,https://cdn.hkdtmb.com/raw/85.ts
+ViuTV,https://cdn.hkdtmb.com/raw/99.ts
+ViuTV Six,https://cdn.hkdtmb.com/raw/96.ts
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 $c_start 港台$c_end
