@@ -27,7 +27,8 @@ FOX NewsNOW,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 NBC NEWS FHD,https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
 TRT World HD,https://tv-trtworld.live.trt.com.tr/master.m3u8
 ABC Australia HD,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-
+CNBC Asia,p5p://fccs.123178.top:9906/604643c100068849088b8e0fef813f1c.ts
+CNN/US HD,p5p://fccs.123178.top:9906/6163fbe0000960a10dede6a22930a24d
 
 $c_start 香港内置解码1$c_end
 内置解码,#genre#
@@ -63,55 +64,9 @@ J2台,https://cdn.hkdtmb.com/raw/82.ts
 ViuTV,https://cdn.hkdtmb.com/raw/99.ts
 ViuTV Six,https://cdn.hkdtmb.com/raw/96.ts
 
-$c_start 冬奥$c_end
-冬奥,#genre#
-
-CCTV奥林匹克,http://39.135.138.60:18890/TVOD/88888910/224/3221226233/index.m3u8
-CCTV奥林匹克,http://39.135.138.60:18890/TVOD/88888910/224/3221226230/index.m3u8
-CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8#http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=13&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-咪咕视频,http://39.134.66.66/PLTV/88888888/224/3221225617/index.m3u8
-咪咕1,http://39.134.66.66/PLTV/88888888/224/3221225619/index.m3u8
-咪咕0,http://39.134.66.66/PLTV/88888888/224/3221225620/index.m3u8
 
 
-
-$c_start 港台$c_end
-美国,#genre#
-CNBC Asia,p5p://fccs.123178.top:9906/604643c100068849088b8e0fef813f1c.ts
-CNN/US HD,p5p://fccs.123178.top:9906/6163fbe0000960a10dede6a22930a24d
-CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
-CN卡通頻道,mitv://ns2.hellotvvod.com:9906/51e593fae95f48968c181b6a47179526
-CN卡通頻道,mitv://ns2.hellotvvod.com:9906/51e593fae95f48968c181b6a47179526
-Colors Hindi,mitv://ns2.hellotvvod.com:9906/dd98f44a969642fd9887c0f14c027977
-Colors Hindi,mitv://ns2.hellotvvod.com:9906/dd98f44a969642fd9887c0f14c027977
-Colors Tamil,mitv://ns2.hellotvvod.com:9906/fb8c72aeee884c1789e905a8da09e2fd
-Colors Tamil,mitv://ns2.hellotvvod.com:9906/fb8c72aeee884c1789e905a8da09e2fd
-Comedy Central Asia,p5p://fccs.123178.top:9906/6044183b000d06f700118c4956df7f03.ts
-Discovery Asia,mitv://ns2.hellotvvod.com:9906/8338adb9ba1541929a6106de04cfdec5
-Discovery HD,p5p://fccs.123178.top:9906/6165416a000e027b12e58ae209743984
-Discovery科學頻道,mitv://ns2.hellotvvod.com:9906/29f6899f71c64f5394c865d50ea00911
-Disney Junior,mitv://ns2.hellotvvod.com:9906/e6075b2e8d544804921f5055e4871326
-Disney Junior,mitv://ns2.hellotvvod.com:9906/e6075b2e8d544804921f5055e4871326
-Disney Junior,mitv://ns2.hellotvvod.com:9906/e6075b2e8d544804921f5055e4871326
-Disney XD Japan,p5p://fccs.123178.top:9906/6163fad2000b65ef0de9c8776b55d158
-Drama Sangat,mitv://ns2.hellotvvod.com:9906/d873d56d1e5d4b4aa02597ce3ff57a7e
-Dreamworks,p5p://fccs.123178.top:9906/60447d38000deb8b019c08cb6ec7c4d9.ts
-DW,mitv://ns2.hellotvvod.com:9906/b957ef1774204c088bb084c051005717
-DW,mitv://ns2.hellotvvod.com:9906/b957ef1774204c088bb084c051005717
-DW-TV ASIEN,tvbus://2xbq5o8vEY73SX1Ef1khhap1xj323hYzQmZUWv2kLCkBJna9Fc
-EBS,mitv://ns2.hellotvvod.com:9906/550363d1e7b34da1aab25a8ae3b5c042
-Euronews,mitv://ns2.hellotvvod.com:9906/9377cf53a2044566b6a808fa268e02fe
-Euronews,mitv://ns2.hellotvvod.com:9906/9377cf53a2044566b6a808fa268e02fe
-Eurosport HD,mitv://ns2.hellotvvod.com:9906/047ba1fc376a4ef88c305a659fbb236f
-Eurosport HD,mitv://ns2.hellotvvod.com:9906/047ba1fc376a4ef88c305a659fbb236f
-
-
-
-
-
-
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 $c_start 央视$c_end
 央视,#genre#
 
