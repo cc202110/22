@@ -171,6 +171,7 @@ CCTV13,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
 无线新闻台,http://ye23.win/iptv/tvb.php?id=1
 HKC有线新闻台,rtmp://v3948069e.live.126.net/live/8ad6da5302022e3a8b67ccc9848614e/ggbox/index
 CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+RT,https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
 RT,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 euronews,https://goiptv.site/redir.php?acesso=79a7eb5929ce59fdaa0adab245f43c58&usuario=4cfa45c64eafb1da9fe4f3e2947e8061
 euronews,http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/43
