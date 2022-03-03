@@ -17,27 +17,28 @@ CCTV13,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
 无线新闻台,http://ye23.win/iptv/tvb.php?id=1
 HKC有线新闻台,rtmp://v3948069e.live.126.net/live/8ad6da5302022e3a8b67ccc9848614e/ggbox/index
 CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
-BBC World News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 BBC World News,http://vips-livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist_b500000.m3u8
-Skynews,https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
-RT,https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
-RT,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+BBC World News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
-France24,http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+Skynews,https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+
 France24,http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
-France24,http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+France24,http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 France24,http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
+
+euronews,https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 euronews,https://goiptv.site/redir.php?acesso=79a7eb5929ce59fdaa0adab245f43c58&usuario=4cfa45c64eafb1da9fe4f3e2947e8061
 euronews,http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/43
-euronews,https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
-NBC NEWS FHD,https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
-NBC NEWS FHD,http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+ABCNEWS,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+NBC NEWS,https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+NBC NEWS,http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
 FOX NewsNOW,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 TRT World HD,https://tv-trtworld.live.trt.com.tr/master.m3u8
 DW,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-ABCNEWS,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
 ABC Australia HD,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+RT,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
 
 
@@ -50,14 +51,17 @@ $c_start 央视$c_end
 
 CCTV1-综合频道,http://117.148.179.155/PLTV/88888888/224/3221231468/index.m3u8
 CCTV1-综合频道,http://117.148.179.155/PLTV/88888888/224/3221231471/index.m3u8
-CCTV1-综合频道,http://117.148.179.42/PLTV/88888888/224/3221229818/index.m3u8
-CCTV1-综合频道,http://117.148.179.15/PLTV/88888888/224/3221229840/index.m3u8
+
+
 CCTV2-财经频道,http://117.148.179.156/PLTV/88888888/224/3221232362/index.m3u8
 CCTV2-财经频道,http://117.148.179.147/PLTV/88888888/224/3221231678/index.m3u8
 CCTV4-中文国际,http://117.148.179.182/PLTV/88888888/224/3221231726/index.m3u8
 CCTV4-欧洲,http://117.148.179.162/PLTV/88888888/224/3221231615/index.m3u8
 CCTV4-美国,http://117.148.179.160/PLTV/88888888/224/3221231654/index.m3u8
-CCTV5-体育频道,http://117.148.179.142/PLTV/88888888/224/3221232440/index.m3u8
+CCTV5HD,http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226024/1/index.m3u8?fmt=ts2hls
+CCTV5HD,http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226248/1/index.m3u8?fmt=ts2hls
+CCTV5HD,http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226043/1/index.m3u8?fmt=ts2hls
+CCTV5HD,http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226259/1/index.m3u8?fmt=ts2hls
 CCTV5+体育赛事,http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8
 CCTV5+体育赛事,http://117.148.179.139/PLTV/88888888/224/3221231535/index.m3u8
 CCTV6-电影频道,http://117.148.179.153/PLTV/88888888/224/3221231724/index.m3u8
@@ -70,7 +74,7 @@ CCTV12-社会与法,http://117.148.179.150/PLTV/88888888/224/3221231660/index.m3
 CCTV13-新闻频道,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
 CCTV15-音乐频道,http://117.148.179.169/PLTV/88888888/224/3221231693/index.m3u8
 CCTV17-农村频道,http://117.148.179.167/PLTV/88888888/224/3221231772/index.m3u8
-CCTV17-农村频道,http://117.148.179.17/PLTV/88888888/224/3221229765/index.m3u8
+
 CCTV-怀旧剧场,http://117.148.179.158/PLTV/88888888/224/3221231544/index.m3u8
 CCTV-第一剧场,http://117.148.179.172/PLTV/88888888/224/3221231540/index.m3u8
 CCTV-风云剧场,http://117.148.179.162/PLTV/88888888/224/3221231604/index.m3u8
@@ -90,9 +94,7 @@ CETV3,http://117.148.179.136/PLTV/88888888/224/3221231543/index.m3u8
 CETV4,http://112.15.230.48/PLTV/88888888/224/3221230334/index.m3u8
 CHC动作电影,http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8
 CHC家庭影院,http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8
-CCTV14M2160HDR,http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
-CCTV16-4K 25M2160,http://223.110.235.9/ott.js.chinamobile.com/PLTV/3/224/3221228168/index.m3u8
-CCTV16-4K 34M2160HDR,http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221228127/index.m3u8
+
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -101,34 +103,33 @@ $c_start 卫视$c_end
 湖南衛視,http://117.148.179.172/PLTV/88888888/224/3221231729/index.m3u8
 湖南衛視,http://117.148.179.135/PLTV/88888888/224/3221230206/index.m3u8
 湖南衛視,http://117.148.179.148/PLTV/88888888/224/3221230824/index.m3u8
-湖南衛視,http://117.148.179.37/PLTV/88888888/224/3221228824/index.m3u8
+
 江蘇衛視,http://117.148.179.175/PLTV/88888888/224/3221231447/index.m3u8
-江蘇衛視,http://117.148.179.37/PLTV/88888888/224/3221228821/index.m3u8
+
 浙江衛視,http://117.148.179.140/PLTV/88888888/224/3221229352/index.m3u8
-浙江衛視,http://117.148.179.136/PLTV/88888888/224/3221231567/index.m3u8
-浙江衛視,http://117.148.179.37/PLTV/88888888/224/3221228837/index.m3u8
+
+
 東方衛視,http://117.148.179.160/PLTV/88888888/224/3221231738/index.m3u8
 東方衛視,http://117.148.179.167/PLTV/88888888/224/3221231450/index.m3u8
 廣東衛視,http://117.148.179.141/PLTV/88888888/224/3221231891/index.m3u8
 廣東衛視,http://117.148.179.159/PLTV/88888888/224/3221231502/index.m3u8
-廣東衛視,http://117.148.179.37/PLTV/88888888/224/3221228812/index.m3u8
+
 北京衛視,http://117.148.179.168/PLTV/88888888/224/3221231732/index.m3u8
-北京衛視,http://117.148.179.37/PLTV/88888888/224/3221228828/index.m3u8
+北京衛視,http://117.148.179.136/PLTV/88888888/224/3221231567/index.m3u8
 天津衛視,http://117.148.179.146/PLTV/88888888/224/3221228905/index.m3u8
-天津衛視,http://117.148.179.37/PLTV/88888888/224/3221228818/index.m3u8
+
 山東衛視,http://117.148.179.137/PLTV/88888888/224/3221227909/index.m3u8
-山東衛視,http://117.148.179.37/PLTV/88888888/224/3221228834/index.m3u8
-山東衛視,http://117.148.179.135/PLTV/88888888/224/3221227955/index.m3u8
+
 湖北衛視,http://117.148.179.142/PLTV/88888888/224/3221231888/index.m3u8
 湖北衛視,http://117.148.179.37/PLTV/88888888/224/3221228815/index.m3u8
-湖北衛視,http://117.148.179.134/PLTV/88888888/224/3221231523/index.m3u8
+
 黑龍江衛視,http://117.148.179.141/PLTV/88888888/224/3221231967/index.m3u8
 黑龍江衛視,http://117.148.179.162/PLTV/88888888/224/3221231520/index.m3u8
-黑龍江衛視,http://117.148.179.37/PLTV/88888888/224/3221228827/index.m3u8
+
 安徽衛視,http://117.148.179.177/PLTV/88888888/224/3221230215/index.m3u8
 遼寧衛視,http://117.148.179.152/PLTV/88888888/224/3221231802/index.m3u8
 江西衛視,http://117.148.179.141/PLTV/88888888/224/3221231964/index.m3u8
-江西衛視,http://117.148.179.37/PLTV/88888888/224/3221228840/index.m3u8
+
 江西衛視,http://117.148.179.157/PLTV/88888888/224/3221231511/index.m3u8
 四川衛視,http://117.148.179.142/PLTV/88888888/224/3221231885/index.m3u8
 四川衛視,http://117.148.179.176/PLTV/88888888/224/3221231517/index.m3u8
