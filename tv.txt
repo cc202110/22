@@ -13,14 +13,14 @@ CCTV13,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
 凤凰资讯,http://59.44.10.116:9901/tsfile/live/1021_1.m3u8
 无线新闻台,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
 HKC有线新闻台,rtmp://v3948069e.live.126.net/live/8ad6da5302022e3a8b67ccc9848614e/ggbox/index
+東森新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
+中天新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
 CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 BBC World News,http://vips-livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist_b500000.m3u8
 BBC World News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-
 Skynews,https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 France24,http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 France24,http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
-
 France24,http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
 
 euronews,https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
