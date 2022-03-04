@@ -35,10 +35,17 @@ TRT World HD,https://tv-trtworld.live.trt.com.tr/master.m3u8
 DW,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 ABC Australia HD,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+RT,http://iptv.tvfix.org/hls/rt.m3u8
 RT,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+俄罗斯,http://iptv.tvfix.org/hls/russia24.m3u8
+乌克兰新闻,http://iptv.tvfix.org/hls/prmua.m3u8
 
 
-
+电影台
+美亚电影,http://iptv.tvfix.org/hls/mydy2.m3u8
+天映经典,http://iptv.tvfix.org/play/tyjd
+HBO,http://iptv.tvfix.org/play/tyjd
+TVB经典http://iptv.tvfix.org/hls/tvbjd.m3u8
 
 
 
