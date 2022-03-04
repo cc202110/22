@@ -41,7 +41,8 @@ RT,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 乌克兰新闻,http://iptv.tvfix.org/hls/prmua.m3u8
 
 
-电影台
+$c_start 电影$c_end
+电影,#genre#
 美亚电影,http://iptv.tvfix.org/hls/mydy2.m3u8
 天映经典,http://iptv.tvfix.org/play/tyjd
 HBO,http://iptv.tvfix.org/play/tyjd
