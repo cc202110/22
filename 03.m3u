@@ -53,6 +53,12 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 http://iptv.tvfix.org/hls/russia24.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",乌克兰新闻
 http://iptv.tvfix.org/hls/prmua.m3u8
+
+
+-------------------------------
+-------------电影台-------------
+-------------------------------
+
 #EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="港澳台",美亚电影台
 http://iptv.tvfix.org/hls/mydy.m3u8
 #EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="港澳台",美亚电影台
@@ -71,7 +77,9 @@ http://iptv.tvfix.org/hls/hbo2.m3u8
 http://iptv.tvfix.org/hls/hbohits.m3u8
 #EXTINF:-1 tvg-id="6153" tvg-name="HBOHits" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" group-title="港澳台",HBO Hits
 http://iptv.tvfix.org/hls/hbohits2.m3u8
-
+-------------------------------
+-------------¥¥¥¥¥-------------
+-------------------------------
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1-综合频道
 http://117.148.179.155/PLTV/88888888/224/3221231468/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1-综合频道
@@ -156,6 +164,14 @@ http://112.15.230.48/PLTV/88888888/224/3221230334/index.m3u8
 http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="地方",CHC家庭影院
 http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8
+
+
+
+-------------------------------
+-------------¥¥¥¥¥-------------
+-------------------------------
+
+
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
 http://117.148.179.172/PLTV/88888888/224/3221231729/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
@@ -274,6 +290,13 @@ http://117.148.179.136/PLTV/88888888/224/3221231480/index.m3u8
 http://117.148.179.36/PLTV/88888888/224/3221229065/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",法治天地
 http://117.148.179.182/PLTV/88888888/224/3221231597/index.m3u8
+
+
+-------------------------------
+-------------¥¥¥¥¥-------------
+-------------------------------
+
+
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
 https://cdn.hkdtmb.com/hls/81/index.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台 (中英字幕)
@@ -704,6 +727,13 @@ http://50.7.218.42:8278/bosisport_twn/playlist.m3u8?tid=m755e8f9db22a&ct=18335&t
 http://50.7.218.42:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283#http://50.7.218.42:8278/bosisport2_twn/playlist.m3u8?tid=MA6A9994195899941958&ct=18393&tsum=6d1df531c3970ed49efe13473af46a2b
 #EXTINF:-1 tvg-id="6175" tvg-name="博斯网球台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport_tennis.png" group-title="港澳台",博斯网球
 http://50.7.218.42:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
+
+
+-------------------------------
+-------------¥¥¥¥¥-------------
+-------------------------------
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",澳视澳门
 http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",澳视澳门
@@ -772,6 +802,12 @@ https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
 https://cdn.hkdtmb.com/hls/77/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",国际财经
 https://cdn.hkdtmb.com/hls/76/index.m3u8
+
+--------------------------------------------------------------------
+-------------¥¥¥¥¥--------------------------------------------------
+--------------------------------------------------------------------
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",AEC
 http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Aec/playlist.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠华丽台
@@ -808,6 +844,13 @@ http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Awani/playl
 http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Rtmsport/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",ASSP 5
 http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Assp5/playlist.m3u8
+
+
+--------------------------------------------------------------------
+-------------¥¥¥¥¥--------------------------------------------------
+--------------------------------------------------------------------
+
+
 #EXTINF:-1 tvg-id="6113" tvg-name="NHK" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHK.png" group-title="港澳台",NHK
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 tvg-id="6113" tvg-name="NHK" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHK.png" group-title="港澳台",NHK
@@ -830,6 +873,14 @@ https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
 http://211.21.12.236:11935/live/cs28.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",no
 http://51.79.193.108:8080/hls/j00033/index.m3u8
+
+
+
+--------------------------------------------------------------------
+-------------¥¥¥¥¥--------------------------------------------------
+--------------------------------------------------------------------
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",TJB SBS 
 http://1.245.74.5:1935/live/tv/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",KBS World
@@ -850,6 +901,12 @@ http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NBS Korea Agricultural Br
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+
+
+--------------------------------------------------------------------
+-------------¥¥¥¥¥--------------------------------------------------
+--------------------------------------------------------------------
+
 #EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="港澳台",HBO
 http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",摇滚娱乐
@@ -888,6 +945,13 @@ https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EU
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
 #EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" group-title="港澳台",ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+
+
+--------------------------------------------------------------------
+-------------¥¥¥¥¥--------------------------------------------------
+--------------------------------------------------------------------
+
+
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
 http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
@@ -940,6 +1004,12 @@ https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",TNTSPORTS 5[1280*720]
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+
+
+--------------------------------------------------------------------
+-------------¥¥¥¥¥--------------------------------------------------
+--------------------------------------------------------------------
+
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京",北京纪实8K(4320p)
 http://down.btvcloud.com:80/8k2021zhibo/zhibo8K2021.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8K超高清
@@ -986,6 +1056,13 @@ http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
 https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",LoveNature4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
+
+--------------------------------------------------------------------
+-------------¥¥¥¥¥--------------------------------------------------
+--------------------------------------------------------------------
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",HD音乐频道
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",otpaha
