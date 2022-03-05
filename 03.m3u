@@ -12,7 +12,7 @@ https://cdn.hkdtmb.com/hls/83/index.m3u8
 rtmp://v3948069e.live.126.net/live/8ad6da5302022e3a8b67ccc9848614e/ggbox/index
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgtg.com/2022/03/04/Wxs7L.jpg" group-title="新闻",中天新闻
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgtg.com/2022/03/04/Wxs7L.jpg" group-title="新闻",中天新闻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgtg.com/2022/03/04/Wxs7L.jpg" group-title="新闻",中视新闻
 http://61.222.202.191/live/yzyh.php?id=138
 #EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="新闻",CNN
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
