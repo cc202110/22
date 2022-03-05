@@ -1,7 +1,19 @@
 
 $c_start 测试$c_end
 测试,#genre#
-
+HGTV,http://61.222.202.191/live/yzyh.php?id=134
+中视新闻,http://61.222.202.191/live/yzyh.php?id=138
+民视新闻,http://61.222.202.191/live/yzyh.php?id=139
+台视新闻,http://61.222.202.191/live/yzyh.php?id=143
+华视新闻,http://61.222.202.191/live/yzyh.php?id=147
+中天新闻,http://61.222.202.191/live/yzyh.php?id=137
+TVBS新闻,http://61.222.202.191/live/yzyh.php?id=135
+东森新闻,http://61.222.202.191/live/yzyh.php?id=140
+环宇新闻,http://61.222.202.191/live/yzyh.php?id=142
+壹新闻,http://61.222.202.191/live/yzyh.php?id=144
+三立新闻,http://61.222.202.191/live/yzyh.php?id=146
+非凡新闻,http://61.222.202.191/live/yzyh.php?id=148
+年代新闻,http://61.222.202.191/live/yzyh.php?id=149
 
 
 $c_start 新闻$c_end
@@ -273,18 +285,7 @@ arirang,http://58.99.33.16:1935/liveedge17/live_158_3.stream/chunklist.m3u8
 好消息,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 好消息,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 
-中视新闻,http://61.222.202.191/live/yzyh.php?id=138
-明视新闻,http://61.222.202.191/live/yzyh.php?id=139
-台视新闻,http://61.222.202.191/live/yzyh.php?id=143
-华视新闻,http://61.222.202.191/live/yzyh.php?id=147
-中天新闻,http://61.222.202.191/live/yzyh.php?id=137
-TVBS新闻,http://61.222.202.191/live/yzyh.php?id=135
-东森新闻,http://61.222.202.191/live/yzyh.php?id=140
-环宇新闻,http://61.222.202.191/live/yzyh.php?id=142
-壹新闻,http://61.222.202.191/live/yzyh.php?id=144
-三立新闻,http://61.222.202.191/live/yzyh.php?id=146
-非凡新闻,http://61.222.202.191/live/yzyh.php?id=148
-年代新闻,http://61.222.202.191/live/yzyh.php?id=149
+
 
 
 无线新闻台,http://50.7.218.42:8278/inews_twn/playlist.m3u8?tid=m2206a7a6925a&ct=18336&tsum=47d564f6425ee7ceb9ff1ed026f89669
