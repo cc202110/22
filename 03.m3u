@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="新闻",tvbxinghe
 http://61.222.202.191/live/yzyh.php?id=7
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="新闻",CCTV13
@@ -296,7 +297,8 @@ http://117.148.179.182/PLTV/88888888/224/3221231597/index.m3u8
 -------------------------------
 -------------¥¥¥¥¥-------------
 -------------------------------
-
+#EXTINF:-1 tvg-id="6167" tvg-name="HGTV居家乐活" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HGTV.png" group-title="港澳台",HGTV居家乐活
+http://61.222.202.191:80/live/yzyh.php?id=134
 
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
 https://cdn.hkdtmb.com/hls/81/index.m3u8
