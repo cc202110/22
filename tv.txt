@@ -128,6 +128,43 @@ ABCnews,http://61.222.202.191:80/live/yzyh.php?id=150
 CBSNEWShttp://61.222.202.191:80/live/yzyh.php?id=151
 CBSN,http://61.222.202.191:80/live/yzyh.php?id=152
 FRACE24,http://61.222.202.191:80/live/yzyh.php?id=153
+DW,http://61.222.202.191:80/live/yzyh.php?id=154
+CNN,http://61.222.202.191:80/live/yzyh.php?id=155
+CNBC,http://61.222.202.191:80/live/yzyh.php?id=156
+BBCworldnews,http://61.222.202.191:80/live/yzyh.php?id=157
+BLOOMBERG,http://61.222.202.191:80/live/yzyh.php?id=158
+CGTN,http://61.222.202.191:80/live/yzyh.php?id=159
+AIJAZEERA,http://61.222.202.191:80/live/yzyh.php?id=160
+RT,http://61.222.202.191:80/live/yzyh.php?id=161
+NHKworld,http://61.222.202.191:80/live/yzyh.php?id=162
+翡翠华丽台,http://61.222.202.191:80/live/yzyh.php?id=164
+AESTRO小太阳,http://61.222.202.191:80/live/yzyh.php?id=168
+AESTRO爱奇艺,http://61.222.202.191:80/live/yzyh.php?id=169
+NHK E,http://61.222.202.191:80/live/yzyh.php?id=172
+Asahi TV,http://61.222.202.191:80/live/yzyh.php?id=173
+JET,http://61.222.202.191:80/live/yzyh.php?id=175
+TOKYOMX,http://61.222.202.191:80/live/yzyh.php?id=177
+NHKBS,http://61.222.202.191:80/live/yzyh.php?id=179
+ELEVEN+,http://61.222.202.191:80/live/yzyh.php?id=180
+ELEVEN2,http://61.222.202.191:80/live/yzyh.php?id=181
+Arirang,http://61.222.202.191:80/live/yzyh.php?id=183
+CBS,http://61.222.202.191:80/live/yzyh.php?id=186
+EBS1,http://61.222.202.191:80/live/yzyh.php?id=187
+EBS2,http://61.222.202.191:80/live/yzyh.php?id=188
+YTN,http://61.222.202.191:80/live/yzyh.php?id=191
+KBSworld24,http://61.222.202.191:80/live/yzyh.php?id=192
+YTN sci,http://61.222.202.191:80/live/yzyh.php?id=193
+YTN korean,http://61.222.202.191:80/live/yzyh.php?id=194
+
+YTN DMBhttp://61.222.202.191:80/live/yzyh.php?id=195
+APPS TV,http://61.222.202.191:80/live/yzyh.php?id=196
+ALL THE KPOP,http://61.222.202.191:80/live/yzyh.php?id=197
+J THE KPOP,http://61.222.202.191:80/live/yzyh.php?id=198
+EBS kids,http://61.222.202.191:80/live/yzyh.php?id=199
+YTN korean,http://61.222.202.191:80/live/yzyh.php?id=200
+STARMOVIES,http://61.222.202.191:80/live/yzyh.php?id=209
+
+
 
 $c_start 新闻$c_end
 新闻,#genre#
