@@ -1,6 +1,16 @@
 
 $c_start 测试$c_end
-测试,#genre#
+测试,#genre# 
+凤凰卫视,http://61.222.202.191/live/yzyh.php?id=1
+凤凰资讯,http://61.222.202.191/live/yzyh.php?id=2
+凤凰香港,http://61.222.202.191/live/yzyh.php?id=3
+翡翠台,http://61.222.202.191/live/yzyh.php?id=4
+J2,http://61.222.202.191/live/yzyh.php?id=9
+TVB星河,http://61.222.202.191/live/yzyh.php?id=7
+TVB功夫台,http://61.222.202.191/live/yzyh.php?id=10
+无线新闻台,http://61.222.202.191/live/yzyh.php?id=12
+无线财经资讯,http://61.222.202.191/live/yzyh.php?id=13
+东森洋片,http://61.222.202.191/live/yzyh.php?id=99
 HGTV,http://61.222.202.191/live/yzyh.php?id=134
 中视新闻,http://61.222.202.191/live/yzyh.php?id=138
 民视新闻,http://61.222.202.191/live/yzyh.php?id=139
