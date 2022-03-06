@@ -4,6 +4,7 @@ $c_start 测试$c_end
 
 BBCearth,http://125.209.88.166:45793/BRN/BBCEarthHD.stream/playlist.m3u8
 
+
 明珠台,http://live.hodtv.vip:25461/live/5633/123/3738.ts
 J2,http://live.hodtv.vip:25461/live/5633/123/3740.ts
 无线新闻,http://live.hodtv.vip:25461/live/5633/123/3743.ts
@@ -49,6 +50,7 @@ HKC有线新闻台,rtmp://v3948069e.live.126.net/live/8ad6da5302022e3a8b67ccc984
 CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 BBC World News,http://vips-livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist_b500000.m3u8
 BBC World News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+BBC World News,https://livecdn.fptplay.net/sdb/bbcnew_hls.smil/chunklist_b2500000.m3u8
 Skynews,https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 France24,http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 France24,http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
@@ -70,6 +72,19 @@ RT,http://iptv.tvfix.org/hls/rt.m3u8
 RT,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 俄罗斯,http://iptv.tvfix.org/hls/russia24.m3u8
 乌克兰新闻,http://iptv.tvfix.org/hls/prmua.m3u8
+
+
+$c_start 人文$c_end
+人文,#genre#
+BBCEarth,http://125.209.88.166:45793/BRN/BBCEarthHD.stream/playlist.m3u8
+
+BBCLifestyle,https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
+
+
+HGTV居家乐活,http://61.222.202.191:80/live/yzyh.php?id=134
+
+WWE,http://50.7.218.42:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
+
 
 
 $c_start 电影$c_end
