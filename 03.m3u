@@ -76,6 +76,8 @@ http://61.222.202.191:80/live/yzyh.php?id=134
 
 #EXTINF:-1 tvg-id="discovery" group-title="人文" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/Discovery-logo.png",Discovery
 https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="人文",Discovery 中文
+http://50.7.218.42:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f#http://50.7.218.42:8278/discoveryhd_twn/playlist.m3u8?tid=MB0B1462900214629002&ct=18393&tsum=ce9990e01102bf91728bdbbb549b04a7
 
 #EXTINF:-1 tvg-id="discoveryasia" group-title="人文" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1200px-Discovery_Asia_logo.svg.png",DiscoveryAsia
 https://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
@@ -313,8 +315,7 @@ http://50.7.218.42:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=
 http://50.7.218.42:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8#http://50.7.218.42:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",国家地理悠人频道
 http://50.7.218.42:8278/natgeopeople_twn/playlist.m3u8?tid=m276f4f18825f17790558&ct=17874&tsum=1d6b4707b3010308c5c9a9d2e8e2c556
-#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="港澳台",探索频道
-http://50.7.218.42:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f#http://50.7.218.42:8278/discoveryhd_twn/playlist.m3u8?tid=MB0B1462900214629002&ct=18393&tsum=ce9990e01102bf91728bdbbb549b04a7
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",探索亚洲台
 http://50.7.218.42:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715#http://50.7.218.42:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",探索动力台
