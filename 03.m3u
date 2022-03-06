@@ -55,7 +55,7 @@ http://iptv.tvfix.org/hls/rt.m3u8
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/640px-Rossiya-24_Logo.svg.png" group-title="新闻",POVVNR
 http://iptv.tvfix.org/hls/russia24.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新闻",乌克兰新闻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新闻",NPRMNN
 http://iptv.tvfix.org/hls/prmua.m3u8
 
 
