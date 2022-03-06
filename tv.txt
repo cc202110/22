@@ -1,6 +1,7 @@
 
 $c_start 测试$c_end
 测试,#genre#
+BBCearth,http://125.209.88.166:45793/BRN/BBCEarthHD.stream/playlist.m3u8
 
 hgtv,https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 
