@@ -2,7 +2,7 @@
 $c_start 测试$c_end
 测试,#genre#
 
-https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
+hgtv,https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 
 
 
