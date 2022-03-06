@@ -20,6 +20,7 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_30
 #EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="新闻",BBC World News
 http://vips-livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist_b500000.m3u8
 
+
 #EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="新闻",Skynews
 https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 #EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="新闻",France24
@@ -36,6 +37,10 @@ https://goiptv.site/redir.php?acesso=79a7eb5929ce59fdaa0adab245f43c58&usuario=4c
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/43
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ABC_News_logo_2021.svg/512px-ABC_News_logo_2021.svg.png" group-title="新闻",ABCNEWS
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" group-title="新闻",ABC News
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/NBC_News_2011.svg/592px-NBC_News_2011.svg.png" group-title="新闻",NBC NEWS
 https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/NBC_News_2011.svg/592px-NBC_News_2011.svg.png" group-title="新闻",NBC NEWS
@@ -118,17 +123,28 @@ http://iptv.tvfix.org/hls/hbo2.m3u8
 #EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="电影",HBO
 http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca
 
-
-
-
-
 #EXTINF:-1 tvg-id="6153" tvg-name="HBOHits" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" group-title="电影",HBO Hits
 http://iptv.tvfix.org/hls/hbohits.m3u8
 #EXTINF:-1 tvg-id="6153" tvg-name="HBOHits" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" group-title="电影",HBO Hits
 http://iptv.tvfix.org/hls/hbohits2.m3u8
--------------------------------
--------------¥¥¥¥¥-------------
--------------------------------
+
+#EXTINF:-1 group-title="Kênh HQ" tvg-logo="https://i.imgur.com/5ZY3zbt.jpg",tvN
+https://tvn-seezn.pip.cjenm.com:443/tvn/_definst_/s5/chunklist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MjI4OTQ5OTUsInBhdGgiOiIvdHZuL19kZWZpbnN0Xy9zNSIsInVubyI6IjE2MjI4OTQ2OTU0MzQzNTU1NSIsImlhdCI6MTYyMjg5NDY5NX0.uTI9slMSRoAbTQ0zGWoEWepnugD9iC-LumyD4dUMJSE&solsessionid=ced1d8fb89dd32a90e5dfa3d317ca053
+
+
+
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
 https://cdn.hkdtmb.com/hls/81/index.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台 (中英字幕)
@@ -913,44 +929,34 @@ https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 -------------¥¥¥¥¥--------------------------------------------------
 --------------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="港澳台",HBO
-http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",摇滚娱乐
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北美",blueantent
 https://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8?bycoca
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",摇滚至尊
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北美",blueantext
 https://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8?bycoca
-#EXTINF:-1 tvg-id="701" tvg-name="FashionTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="港澳台",FTV4
+#EXTINF:-1 tvg-id="701" tvg-name="FashionTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="北美",FTV4
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="701" tvg-name="FashionTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="港澳台",FTV4
+#EXTINF:-1 tvg-id="701" tvg-name="FashionTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="北美",FTV4
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Fox Tallahassee FL (WTWC-
+
+#EXTINF:-1 group-title="北美" tvg-logo="https://i.imgur.com/0o5gW5G.jpg",Fashion Midnite HD
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北美",Fox Tallahassee
 https://5e6cea03e25b6.streamlock.net/live/WTWC-FX.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="港澳台",Bloomberg Quicktake (1080
+#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="北美",Bloomberg Quicktake
 https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-02-oNnPi5xc6sq_live.m3u8
-#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="港澳台",Bloomberg Quicktake (720p
-https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-03-qPp9HnlfNtK_live.m3u8
-#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="港澳台",Bloomberg TV Asia (720p)
+
+#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="北美",Bloomberg TV Asia
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
-#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="港澳台",Bloomberg TV Australia (7
-https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8
-#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="港澳台",Bloomberg TV Australia (2
-https://liveprodapnortheast.akamaized.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-440-1_live.m3u8
-#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="港澳台",Bloomberg TV Europe (720p
+
+#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="北美",Bloomberg TV Europe
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
-#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="港澳台",Bloomberg TV Europe (360p
-https://liveprodeuwest.global.ssl.fastly.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
-#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="港澳台",Bloomberg TV US (720p)
+
+#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="北美",Bloomberg TV US
 https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="港澳台",Bloomberg TV US (720p)
-https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="港澳台",Bloomberg TV US (360p)
-https://liveprodapnortheast.akamaized.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-700-1_live.m3u8
-#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="港澳台",Bloomberg TV US (360p)
-https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
-#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="港澳台",Bloomberg TV US (180p)
-https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
-#EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" group-title="港澳台",ABC News
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+
+
+
 
 
 --------------------------------------------------------------------
