@@ -74,6 +74,15 @@ https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="6167" tvg-name="HGTV居家乐活" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/640px-HGTV_2010.svg.png" group-title="人文",HGTV居家乐活
 http://61.222.202.191:80/live/yzyh.php?id=134
 
+#EXTINF:-1 tvg-id="discovery" group-title="人文" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/Discovery-logo.png",Discovery
+https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="discoveryasia" group-title="人文" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1200px-Discovery_Asia_logo.svg.png",DiscoveryAsia
+https://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="ap" group-title="人文I" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",动物星球
+https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/526px-WWE_Logo.svg.png" group-title="人文",WWE
 http://50.7.218.42:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
 -------------------------------
