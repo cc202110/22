@@ -4,8 +4,34 @@ $c_start 测试$c_end
 
 BBCearth,http://125.209.88.166:45793/BRN/BBCEarthHD.stream/playlist.m3u8
 
+明珠台,http://live.hodtv.vip:25461/live/5633/123/3738.ts
+J2,http://live.hodtv.vip:25461/live/5633/123/3740.ts
+无线新闻,http://live.hodtv.vip:25461/live/5633/123/3743.ts
+无线财经,http://live.hodtv.vip:25461/live/5633/123/3744.ts
+ViuTV,http://live.hodtv.vip:25461/live/5633/123/3746.ts
+ViuTVsix,http://live.hodtv.vip:25461/live/5633/123/3747.ts
+RHK31,http://live.hodtv.vip:25461/live/5633/123/3748.ts
+RHK32,http://live.hodtv.vip:25461/live/5633/123/3749.ts
+有线新闻台,http://live.hodtv.vip:25461/live/5633/123/3753.ts
+有线财经资讯台,http://live.hodtv.vip:25461/live/5633/123/3754.ts
+有线18台,http://live.hodtv.vip:25461/live/5633/123/3755.ts
+香港603,http://live.hodtv.vip:25461/live/5633/123/3756.ts
+有线体育台,http://live.hodtv.vip:25461/live/5633/123/3757.ts
+娱乐新闻台,http://live.hodtv.vip:25461/live/5633/123/3758.ts
+娱乐新闻台,http://v3948069e.live.126.net:80/live/2377c0666.flv
+TVB星河频道,http://live.hodtv.vip:25461/live/123/123/3739.ts
+TVB功夫台,http://live.hodtv.vip:25461/live/5633/123/3741.ts
+备TVB經典,http://206.119.173.184/tv/js.php?id=11
+TVB经典台,http://live.hodtv.vip:25461/live/5633/123/3742.ts
+Now新闻,http://live.hodtv.vip:25461/live/5633/123/3871.ts
+Now体育,http://live.hodtv.vip:25461/live/5633/123/3750.ts
+Now直播,http://live.hodtv.vip:25461/live/5633/123/3751.ts
+C+,http://live.hodtv.vip:25461/live/5633/123/3752.ts
+港版美亚电影台,http://live.hodtv.vip:25461/live/123/123/3869.ts
+港版美亚电影台,http://v3948069e.live.126.net:80/live/2377c02556.flv
+Channel[V],http://live.hodtv.vip:25461/live/5633/123/3872.ts
+星空卫视,http://live.hodtv.vip:25461/live/5633/123/3873.ts
 
-hgtv,https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 
 
 
