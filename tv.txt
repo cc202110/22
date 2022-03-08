@@ -1,6 +1,19 @@
+$c_start 51.222$c_end
+51.222,#genre#
 
-$c_start 测试$c_end
-测试,#genre#
+无线新闻,http://51.222.193.143:10010/1
+翡翠台,http://51.222.193.143:10010/2
+VIUTV,http://51.222.193.143:10010/3
+VIUTV6,http://51.222.193.143:10010/4
+明珠台,http://51.222.193.143:10010/5
+无线财经,http://51.222.193.143:10010/6
+J2,http://51.222.193.143:10010/7
+
+
+
+
+$c_start dllb$c_end
+dllb,#genre#
 民视新闻,http://dllb.jxin122.top/jj.php?id=05&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 纬来体育,http://dllb.jxin122.top/jj.php?id=11&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 卫视中文,http://dllb.jxin122.top/jj.php?id=04&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
