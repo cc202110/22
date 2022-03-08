@@ -92,14 +92,19 @@ https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.
 #EXTINF:-1 group-title="人文" tvg-logo="https://i.imgur.com/HpNcOWF.png",National Geographic
 https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 
--------------------------------
--------------电影台-------------
--------------------------------
+----------------------------------------------------------------------------------------------------------------------------
+-------------电影台----------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------
+
+
 #EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="电影",东森电影台
 http://50.7.218.42:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
 
 #EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="电影",美亚电影台
 http://iptv.tvfix.org/hls/mydy2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgtg.com/2022/03/08/WeeLU.jpg" group-title="电影",天映频道
+天映频道,http://dllb.jxin122.top/jj.php?id=15&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgtg.com/2022/03/06/WnqiP.jpg" group-title="电影",天映经典
 http://iptv.tvfix.org/hls/tyjd.m3u8
