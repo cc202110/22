@@ -108,8 +108,10 @@ CCTV13,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
 无线新闻台,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
 HKC有线新闻台,rtmp://v3948069e.live.126.net/live/8ad6da5302022e3a8b67ccc9848614e/ggbox/index
 東森新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
+中天新聞,http://flv3948069e.live.126.net:80/live/dabadqdszbtest78612.flv
 中天新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
 中天新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctinews.m3u8
+CNN,http://1942468522.rsc.cdn77.org/pXsD0x1AW90V-IgRQ3Fm9g==,1646732441/1942468522/tracks-v1a1/mono.m3u8
 CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 BBC World News,http://vips-livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist_b500000.m3u8
 BBC World News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
@@ -140,6 +142,7 @@ RT,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 $c_start 人文$c_end
 人文,#genre#
 BBCEarth,http://125.209.88.166:45793/BRN/BBCEarthHD.stream/playlist.m3u8
+BBCTWO,https://sparktv-samsunguk.amagi.tv/playlist.m3u8
 BBCLifestyle,https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
 HGTV居家乐活,http://61.222.202.191:80/live/yzyh.php?id=134
 WWE,http://50.7.218.42:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
