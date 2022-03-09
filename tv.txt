@@ -34,8 +34,10 @@ $c_start 凤凰$c_end
 凤凰香港,http://hkss3.phoenixtv.com/fs/phk.stream/.m3u8
 
 
-
-
+$c_start 185$c_end
+185,#genre#
+TVB 新闻,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
+明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
 
 $c_start 51.222$c_end
 51.222,#genre#
