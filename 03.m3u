@@ -2,6 +2,10 @@
 
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="新闻",CCTV13
 http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
+
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="新闻",zhongt
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1646866943/ei/n90oYrLfE-uYvcAP4p6twA0/ip/193.122.104.11/id/lu_BJKxqGnk.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr5---sn-ab02a0nfpgxapox-bh2zz.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/Fr/mm/44/mn/sn-ab02a0nfpgxapox-bh2zz/ms/lva/mv/u/mvi/5/pl/26/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1646845139/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRAIgcZL4a-YFUzAVb4k0au66Wb7kWY3BXtrbFj2nETUWg3ICIE9m7-7bnIXE5RCWgqFVfu92JR9C5NMJIJwe4AlpFJ89/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRgIhAKx0SmvDxQQ6l_fo8o3C12P0hP95TN5gbXSo9MBSedjxAiEA7QUmArB5DX0FNAjJVWjJAKjzIOUILTtySDHZ590CfG8%3D/playlist/index.m3u8
+
 #EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="新闻",北京新闻
 http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?
 
