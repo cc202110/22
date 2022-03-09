@@ -122,6 +122,7 @@ Skynews,https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 France24,http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 France24,http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
 France24,http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
+France24,https://livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8
 
 euronews,https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 euronews,https://goiptv.site/redir.php?acesso=79a7eb5929ce59fdaa0adab245f43c58&usuario=4cfa45c64eafb1da9fe4f3e2947e8061
