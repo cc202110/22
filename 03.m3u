@@ -83,9 +83,6 @@ http://50.7.218.42:8278/discoverych_twn/playlist.m3u8?tid=MA3A2844188928441889&c
 #EXTINF:-1 tvg-id="discovery" group-title="人文" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/Discovery-logo.png",Discovery
 https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="discovery" group-title="人文" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/Discovery-logo.png",Discovery
-http://50.7.218.42:8278/discoveryhd_twn/playlist.m3u8?tid=MB0B1462900214629002&ct=18393&tsum=ce9990e01102bf91728bdbbb549b04a7
-
 #EXTINF:-1 group-title="人文" tvg-logo="https://i.imgtg.com/2022/03/09/WgroL.jpg",DMAX
 http://50.7.218.42:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279#http://50.7.218.42:8278/discoveryturbo_twn/playlist.m3u8?tid=MECE3122352031223520&ct=18393&tsum=66f49d6631e9a76ea563d20a25e0bd4c
 
