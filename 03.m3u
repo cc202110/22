@@ -7,8 +7,8 @@ http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?
 
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="新闻",凤凰资讯
 http://59.44.10.116:9901/tsfile/live/1021_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgtg.com/2022/03/04/WxW8t.png" group-title="新闻",无线新闻
-http://51.222.193.143:10010/1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgtg.com/2022/03/09/Wy3er.png" group-title="新闻",无线新闻
+https://cdn.hkdtmb.com/hls/83/index.m3u8
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="新闻",HKC有线新闻台
 https://api.leonardpark.dev/live/icable/109#rtmp://v3948069e.live.126.net/live/8ad6da5302022e3a8b67ccc9848614e/ggbox/index
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgtg.com/2022/03/04/Wxs7L.jpg" group-title="新闻",中天新闻
@@ -154,7 +154,7 @@ https://cdn.hkdtmb.com/hls/81/index.m3u8
 https://cdn.hkdtmb.com/hls/81b/index.m3u8
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2台
 https://cdn.hkdtmb.com/hls/82/index.m3u8
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻台
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="https://i.imgtg.com/2022/03/09/Wy3er.png" group-title="港澳台",无线新闻台
 https://cdn.hkdtmb.com/hls/83/index.m3u8
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台",明珠台
 https://cdn.hkdtmb.com/hls/84/index.m3u8
@@ -178,7 +178,7 @@ https://cdn.hkdtmb.com/hls/77/index.m3u8
 https://cdn.hkdtmb.com/hls/76/index.m3u8
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",HKC有线新闻台
 rtmp://v3948069e.live.126.net/live/8ad6da5302022e3a8b67ccc9848614e/ggbox/index
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻台
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="https://i.imgtg.com/2022/03/09/Wy3er.png" group-title="港澳台",无线新闻台
 https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgtg.com/2022/03/09/Wy8yv.png" group-title="港澳台",TVBJ1
 https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
