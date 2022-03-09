@@ -10,7 +10,7 @@ http://59.44.10.116:9901/tsfile/live/1021_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgtg.com/2022/03/09/Wy3er.png" group-title="新闻",无线新闻
 https://cdn.hkdtmb.com/hls/83/index.m3u8
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="新闻",HKC有线新闻台
-https://api.leonardpark.dev/live/icable/109#rtmp://v3948069e.live.126.net/live/8ad6da5302022e3a8b67ccc9848614e/ggbox/index
+rtmp://v3948069e.live.126.net/live/8ad6da5302022e3a8b67ccc9848614e/ggbox/index
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgtg.com/2022/03/04/Wxs7L.jpg" group-title="新闻",中天新闻
 http://flv3948069e.live.126.net:80/live/dabadqdszbtest78612.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgtg.com/2022/03/04/Wxs7L.jpg" group-title="新闻",中视新闻
