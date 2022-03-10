@@ -14,12 +14,10 @@ http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
 https://api.leonardpark.dev/live/icable/109
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgtg.com/2022/03/04/Wxs7L.jpg" group-title="新闻",中天新闻
-http://193.122.104.11:9500/live.m3u8?channel=13
-
 http://flv3948069e.live.126.net:80/live/dabadqdszbtest78612.flv
 
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="新闻",东森新闻台
-http://193.122.104.11:9500/live.m3u8?channel=14
+
 
 #EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="新闻",CNN
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
