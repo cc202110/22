@@ -15,7 +15,7 @@ http://dllb.jxin122.top/jj.php?id=099&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgtg.com/2022/03/09/Wy3er.png" group-title="新闻",无线新闻
 http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="新闻",HKC有线新闻台
-rtmp://v3948069e.live.126.net/live/8ad6da5302022e3a8b67ccc9848614e/ggbox/index
+https://api.leonardpark.dev/live/icable/109
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgtg.com/2022/03/04/Wxs7L.jpg" group-title="新闻",中天新闻
 http://193.122.104.11:9500/live.m3u8?channel=8#http://flv3948069e.live.126.net:80/live/dabadqdszbtest78612.flv
