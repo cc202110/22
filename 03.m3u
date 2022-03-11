@@ -280,8 +280,6 @@ http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="7182" tvg-name="智林体育" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/智林体育台.png" group-title="港澳台",智林体育台
 http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中台湾生活网
-http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="6042" tvg-name="MOMO亲子台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/MOMOkids.png" group-title="港澳台",momo综合台
 http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="6113" tvg-name="NHK" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHK.png" group-title="港澳台",NHK
@@ -1054,20 +1052,10 @@ http://39.134.184.95:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221
 http://astream.apk1088.com:18888/channel.php?id=GDZYHD4K_38000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",QXTV4k
-http://101.33.26.234/d1--cn-gotcha04.bilivideo.com/live-bvc/698138/live_429652939_44047359.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",纯享4k
-http://[2409:8087:3800:2020:1000::81d]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225786/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",纯享4k
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",绚影4K
-http://182.136.139.72:4022/rtp/239.93.42.33:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",爱上4K
 http://111.20.33.93/PLTV/88888893/224/3221226352/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",1MV4K
 http://136.243.42.146:1499
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",VTC13 4K
-http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",Clarity4K
 https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",LoveNature4K
@@ -1093,8 +1081,6 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="音乐",DJT
 https://srv1.adriatelekom.com/DJTelevision/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="音乐",AdriaMusic
-https://srv1.adriatelekom.com/AdriaMusicTV/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="音乐",M2O音乐台
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="音乐",MTV Yo!
