@@ -48,6 +48,7 @@ RT,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 $c_start 人文$c_end
 人文,#genre#
 BBCEarth,http://125.209.88.166:45793/BRN/BBCEarthHD.stream/playlist.m3u8
+BBCEarth,http://78.83.191.18:8000/play/a05o
 
 
 BBCLifestyle,https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
