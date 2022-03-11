@@ -5,9 +5,7 @@
 
 $c_start 新闻$c_end
 新闻,#genre#
-天映频道,p2p://fccseuro.pvbox.live:18912/5d650486000c7ef46a640da928dbefc1.ts#p2p://fccseuro.pvbox.live:18912/5e64a27b000b40186caada2a41021861.ts#p2p://fccsovh.pvbox.live:18912/5d650486000c7ef46a640da928dbefc1.ts
-靖天电影台,p2p://fccsovh.pvbox.live:18912/5b14093f0000e91ed352c047ce05b9b3.ts#p2p://fccseuro.pvbox.live:18912/5b14093f0000e91ed352c047ce05b9b3.ts
-纬来电影台,http://198.16.106.62:8278/streams/d/videolandmovie_zero/playlist.m3u8
+TVN Movies,http://210.210.155.35/session/2940d29c-a0bb-11ec-9eaf-b82a72d63267/dr9445/h/h21/02.m3u8
 
 CCTV13,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
 北京新聞,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?
