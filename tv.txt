@@ -8,6 +8,7 @@ CCTV13,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
 北京新聞,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=.
 凤凰资讯,http://dllb.jxin122.top/jj.php?id=099&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 无线新闻台,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
+
 HKC有线新闻台,rtmp://v3948069e.live.126.net/live/8ad6da5302022e3a8b67ccc9848614e/ggbox/index
 東森新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
 中天新聞,http://flv3948069e.live.126.net:80/live/dabadqdszbtest78612.flv
@@ -59,6 +60,7 @@ Discovery,https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5
 DiscoveryAsia,https://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
 
 动物星球,https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
+动物星球,http://78.83.191.18:8000/play/a05r
 
 HGTV居家乐活,http://61.222.202.191:80/live/yzyh.php?id=134
 
@@ -119,6 +121,9 @@ Outdoor,rtmp://118.163.221.79:1936/live/Outdoor
 高尔夫,rtmp://118.163.221.79:1936/live/GOLF
 HBO Family,rtmp://118.163.221.79:1936/live/CLASSICAHD
 
+无线新闻台,http://209.141.33.136/hls/inews.m3u8
+翡翠台,http://209.141.33.136/hls/jade.m3u8
+J2,http://209.141.33.136/hls/j2.m3u8
 
 $c_start 185$c_end
 185,#genre#
