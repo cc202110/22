@@ -841,7 +841,7 @@ http://117.148.179.183/PLTV/88888888/224/3221231451/index.m3u8
 http://117.148.179.162/PLTV/88888888/224/3221231469/index.m3u8
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视",厦门卫视
 http://117.148.179.134/PLTV/88888888/224/3221229184/index.m3u8
-#EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="北京",北京文艺
+#EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="地方",北京文艺
 http://117.148.179.160/PLTV/88888888/224/3221231570/index.m3u8
 #EXTINF:-1 tvg-id="6606" tvg-name="四海钓鱼" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC4.jpg" group-title="地方",四海钓鱼
 http://117.148.179.159/PLTV/88888888/224/3221231718/index.m3u8
@@ -1024,9 +1024,7 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 -------------¥¥¥¥¥--------------------------------------------------
 --------------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="4K",北京纪实8K(4320p)
-http://down.btvcloud.com:80/8k2021zhibo/zhibo8K2021.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="4K央视",CCTV8K超高清
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="4K",CCTV8K超高清
 http://117.148.179.157/PLTV/88888888/224/3221233350/index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K,CCTV4K
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8#http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=13&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
