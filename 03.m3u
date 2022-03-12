@@ -15,7 +15,7 @@ http://51.222.193.143:10010/1
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="新闻",HKC有线新闻台
 https://api.leonardpark.dev/live/icable/109
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgtg.com/2022/03/04/Wxs7L.jpg" group-title="新闻",中天新闻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/J12Aq3w.jpg" group-title="新闻",中天新闻
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
 
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="新闻",东森新闻台
