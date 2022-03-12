@@ -1026,7 +1026,7 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 --------------------------------------------------------------------
 -------------¥¥¥¥¥--------------------------------------------------
 --------------------------------------------------------------------
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="" group-title="4K",C芒果TV
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://i.imgur.com/tfSUIUk.jpg" group-title="4K",C芒果TV
 http://39.135.55.105:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="4K",CCTV8K超高清
 http://117.148.179.157/PLTV/88888888/224/3221233350/index.m3u8
