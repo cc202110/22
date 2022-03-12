@@ -9,7 +9,7 @@ http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="新闻",凤凰资讯
 http://39.135.55.105:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgtg.com/2022/03/09/Wy3er.png" group-title="新闻",无线新闻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/117rOCy.png" group-title="新闻",无线新闻
 http://51.222.193.143:10010/1
 
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="新闻",HKC有线新闻台
@@ -40,10 +40,10 @@ https://goiptv.site/redir.php?acesso=79a7eb5929ce59fdaa0adab245f43c58&usuario=4c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/NBC_News_2011.svg/592px-NBC_News_2011.svg.png" group-title="新闻",NBC NEWS
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgtg.com/2022/03/09/WgojD.png" group-title="新闻",FOX NewsNOW
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m3zSu8l.png" group-title="新闻",FOX NewsNOW
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgtg.com/2022/03/09/Wgi2a.jpg" group-title="新闻",ABC NEWS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/48EI7j1.jpg" group-title="新闻",ABC NEWS
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/640px-TRT_World.svg.png" group-title="新闻",TRT World HD
@@ -53,12 +53,11 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" group-title="新闻",ABC Australia HD
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgtg.com/2022/03/04/Wxxpj.jpg" group-title="新闻",RT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/O3njZbT.jpg" group-title="新闻",RT
 http://iptv.tvfix.org/hls/rt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/640px-Rossiya-24_Logo.svg.png" group-title="新闻",POVVNR
 http://iptv.tvfix.org/hls/russia24.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新闻",NPRMNN
-http://iptv.tvfix.org/hls/prmua.m3u8
+
 
 
 
@@ -71,16 +70,16 @@ http://iptv.tvfix.org/hls/prmua.m3u8
 http://125.209.88.166:45793/BRN/BBCEarthHD.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/1280px-BBC_Lifestyle2.svg.png" group-title="人文",BBCLifestyle
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BfOBypW.jpg" group-title="人文",BBCLifestyle
 https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="人文" tvg-logo="https://i.imgur.com/HpNcOWF.png",国家地理
+#EXTINF:-1 group-title="人文" tvg-logo="https://i.imgur.com/uWLe4m2.jpg",国家地理
 https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="人文" tvg-logo="https://i.imgur.com/HpNcOWF.png",国家地理TWAIWAN
+#EXTINF:-1 group-title="人文" tvg-logo="https://i.imgur.com/uWLe4m2.jpg",国家地理TWAIWAN
 http://50.7.218.42:8278/natgeohd_twn/playlist.m3u8?tid=MB5B4841803948418039&ct=18393&tsum=a2343b2c061fc9de3fa7857e832d9625
 
-#EXTINF:-1 group-title="人文" tvg-logo="https://i.imgur.com/HpNcOWF.png",国家地理WILD
+#EXTINF:-1 group-title="人文" tvg-logo="https://i.imgur.com/3flaIpI.jpg",国家地理WILD
 http://50.7.218.42:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8#http://50.7.218.42:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
 
 #EXTINF:-1 tvg-id="discovery" group-title="人文" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/Discovery-logo.png",DiscoveryTAIWAN
