@@ -162,9 +162,6 @@ https://cdn.hkdtmb.com/hls/81/index.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
 http://50.7.218.42:8278/jade_twn/playlist.m3u8?tid=m51e8c5582227&ct=18336&tsum=d0987332bec9b0fecc98b9b9ff3ddeac
 
-
-
-
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台 (中英字幕)
 https://cdn.hkdtmb.com/hls/81b/index.m3u8
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2台
@@ -197,11 +194,11 @@ https://cdn.hkdtmb.com/hls/77/index.m3u8
 #EXTINF:-1 tvg-id="7117" tvg-name="香港国际财经台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hkguojicaijing.png" group-title="港澳台",香港国际财经台
 https://cdn.hkdtmb.com/hls/76/index.m3u8
 
-#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",HKC有线新闻台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻台
 https://api.leonardpark.dev/live/icable/109
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",HKC有线财经资讯台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",有线财经资讯台
 https://api.leonardpark.dev/live/icable/108
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",HKC有线直播新闻台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",有线直播新闻台
 https://api.leonardpark.dev/live/icable/110
 
 #EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="港澳台",香港HKS
