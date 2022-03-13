@@ -8,24 +8,20 @@ CCTV13,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
 北京新聞,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=.
 凤凰资讯,http://dllb.jxin122.top/jj.php?id=099&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 无线新闻台,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
-
 HKC有线新闻台,rtmp://v3948069e.live.126.net/live/8ad6da5302022e3a8b67ccc9848614e/ggbox/index
 東森新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
 中天新聞,http://flv3948069e.live.126.net:80/live/dabadqdszbtest78612.flv
-中天新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
-中天新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctinews.m3u8
+
 CNN,http://1942468522.rsc.cdn77.org/pXsD0x1AW90V-IgRQ3Fm9g==,1646732441/1942468522/tracks-v1a1/mono.m3u8
 CNN,https://1439734486.rsc.cdn77.org/5U0RhY6EA2Bk0m-XGqILhQ==,1646979609/1439734486/tracks-v1a1/mono.m3u8
 CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 CNN,http://84.22.33.214/cnn/index.m3u8
+
 BBC World News,http://vips-livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist_b500000.m3u8
 BBC World News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 BBC World News,https://livecdn.fptplay.net/sdb/bbcnew_hls.smil/chunklist_b2500000.m3u8
 BBC World News,http://78.83.191.18:8000/play/a07a
 BBC World News,http://84.22.33.214/bbc/index.m3u8
-
-
-
 
 Skynews,https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 
@@ -33,7 +29,6 @@ France24,http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 France24,http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
 France24,http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
 France24,https://livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8
-
 euronews,https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 euronews,https://goiptv.site/redir.php?acesso=79a7eb5929ce59fdaa0adab245f43c58&usuario=4cfa45c64eafb1da9fe4f3e2947e8061
 euronews,http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/43
@@ -56,15 +51,10 @@ $c_start 人文$c_end
 人文,#genre#
 BBCEarth,http://125.209.88.166:45793/BRN/BBCEarthHD.stream/playlist.m3u8
 BBCEarth,http://78.83.191.18:8000/play/a05o
-
-
 BBCLifestyle,https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
-
 BBCLifestyle,https://vips-livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist_b500000.m3u8
 Discovery,https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
-
 DiscoveryAsia,https://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
-
 动物星球,https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
 动物星球,http://78.83.191.18:8000/play/a05r
 PRIME,http://84.22.33.214/prime/index.m3u8
@@ -94,7 +84,6 @@ $c_start 凤凰$c_end
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8
 
-
 凤凰资讯,http://dllb.jxin122.top/jj.php?id=099&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 凤凰资讯,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=99&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 凤凰资讯,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=099&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
@@ -116,12 +105,6 @@ $c_start 凤凰$c_end
 凤凰中文,http://hkss3.phoenixtv.com/fs/pcc.stream/.m3u8
 凤凰香港,http://hkss3.phoenixtv.com/fs/phk.stream/.m3u8
 
-$c_start 540$c_end
-540,#genre#
-jp1,rtmp://202.39.64.234:1938/live/540
-
-
-
 
 $c_start flv$c_end
 flv,#genre#
@@ -131,6 +114,47 @@ flv,#genre#
 
 $c_start qq286$c_end
 qq286,#genre#
+5号[1280*720],http://qq286780.v3.aihost6.top/ccav/ccav.php?id=5
+6号[1280*720],http://qq286780.v3.aihost6.top/ccav/ccav.php?id=6
+9号[1280*720],http://qq286780.v3.aihost6.top/ccav/ccav.php?id=9
+10号[1920*1080],http://qq286780.v3.aihost6.top/ccav/ccav.php?id=10
+12号[1920*1080],http://qq286780.v3.aihost6.top/ccav/ccav.php?id=12
+13号[1280*720],http://qq286780.v3.aihost6.top/ccav/ccav.php?id=13
+11号[1280*720],http://qq286780.v3.aihost6.top/ccav/ccav.php?id=11
+7号[1280*720],http://qq286780.v3.aihost6.top/ccav/ccav.php?id=7
+20号[1280*720],http://qq286780.v3.aihost6.top/ccav/ccav.php?id=20
+19号[1280*720],http://qq286780.v3.aihost6.top/ccav/ccav.php?id=19
+21号[1280*720],http://qq286780.v3.aihost6.top/ccav/ccav.php?id=21
+24号[1280*720],http://qq286780.v3.aihost6.top/ccav/ccav.php?id=24
+25号[1280*720],http://qq286780.v3.aihost6.top/ccav/ccav.php?id=25
+26号[1280*720],http://qq286780.v3.aihost6.top/ccav/ccav.php?id=26
+16号[1280*720],http://qq286780.v3.aihost6.top/ccav/ccav.php?id=16
+32号[1280*720],http://qq286780.v3.aihost6.top/ccav/ccav.php?id=32
+34号[1920*1080],http://qq286780.v3.aihost6.top/ccav/ccav.php?id=34
+35号[1280*720],http://qq286780.v3.aihost6.top/ccav/ccav.php?id=35
+38号[1280*720],http://qq286780.v3.aihost6.top/ccav/ccav.php?id=38
+39号[1920*1080],http://qq286780.v3.aihost6.top/ccav/ccav.php?id=39
+40号[1280*720],http://qq286780.v3.aihost6.top/ccav/ccav.php?id=40
+41号[1280*720],http://qq286780.v3.aihost6.top/ccav/ccav.php?id=41
+44号[1280*720],http://qq286780.v3.aihost6.top/ccav/ccav.php?id=44
+45号[1280*720],http://qq286780.v3.aihost6.top/ccav/ccav.php?id=45
+46号[1280*720],http://qq286780.v3.aihost6.top/ccav/ccav.php?id=46
+47号[1280*720],http://qq286780.v3.aihost6.top/ccav/ccav.php?id=47
+51号[1280*720],http://qq286780.v3.aihost6.top/ccav/ccav.php?id=51
+50号[1280*720],http://qq286780.v3.aihost6.top/ccav/ccav.php?id=50
+54号[1920*1080],http://qq286780.v3.aihost6.top/ccav/ccav.php?id=54
+52号[1280*720],http://qq286780.v3.aihost6.top/ccav/ccav.php?id=52
+59号[1280*720],http://qq286780.v3.aihost6.top/ccav/ccav.php?id=59
+78号[1280*720],http://qq286780.v3.aihost6.top/ccav/ccav.php?id=78
+79号[1280*720],http://qq286780.v3.aihost6.top/ccav/ccav.php?id=79
+84号[1280*720],http://qq286780.v3.aihost6.top/ccav/ccav.php?id=84
+88号[1920*1080],http://qq286780.v3.aihost6.top/ccav/ccav.php?id=88
+89号[1920*1080],http://qq286780.v3.aihost6.top/ccav/ccav.php?id=89
+92号[1280*720],http://qq286780.v3.aihost6.top/ccav/ccav.php?id=92
+93号[1024*576],http://qq286780.v3.aihost6.top/ccav/ccav.php?id=93
+95号[1280*720],http://qq286780.v3.aihost6.top/ccav/ccav.php?id=95
+97号[1280*720],http://qq286780.v3.aihost6.top/ccav/ccav.php?id=97
+94号[1280*720],http://qq286780.v3.aihost6.top/ccav/ccav.php?id=94
 无线新闻,http://qq286780.v3.aihost6.top/ccav/ccav.php?id=73
 J2,http://qq286780.v3.aihost6.top/ccav/ccav.php?id=74
 
@@ -160,8 +184,18 @@ livesec,#genre#
 
 $c_start 185$c_end
 185,#genre#
-TVB 新闻,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
+翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
+viutv6,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
+viutv,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
+无线新闻,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
+无线财经,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
+港台电视31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
+港台电视港台电视32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
+港台电视33,http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
+
+
 
 $c_start 51.222$c_end
 51.222,#genre#
@@ -1393,6 +1427,53 @@ Animax,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
 
 TBS Channel,http://211.21.12.236:11935/live/cs28.stream/playlist.m3u8
 no,http://51.79.193.108:8080/hls/j00033/index.m3u8
+jp1,rtmp://202.39.64.234:1938/live/540
+74号[1280*720],rtmp://202.39.64.234:1938/live/613
+76号[1280*720],rtmp://202.39.64.234:1938/live/615
+75号[1280*720],rtmp://202.39.64.234:1938/live/614
+99号[1280*720],rtmp://202.39.64.234:1938/live/638
+110号[1280*720],rtmp://202.39.64.234:1938/live/649
+111号[1280*720],rtmp://202.39.64.234:1938/live/650
+112号[1280*720],rtmp://202.39.64.234:1938/live/651
+117号[1280*720],rtmp://202.39.64.234:1938/live/656
+125号[1280*720],rtmp://202.39.64.234:1938/live/664
+129号[1280*720],rtmp://202.39.64.234:1938/live/668
+130号[1280*720],rtmp://202.39.64.234:1938/live/669
+136号[1280*720],rtmp://202.39.64.234:1938/live/675
+544号[1280*720],rtmp://202.39.64.234:1936/live/544
+615号[1280*720],rtmp://202.39.64.234:1936/live/615
+611号[1920*1080],rtmp://202.39.64.234:1936/live/611
+612号[1920*1080],rtmp://202.39.64.234:1936/live/612
+622号[1280*720],rtmp://202.39.64.234:1936/live/622
+623号[1280*720],rtmp://202.39.64.234:1936/live/623
+626号[1920*1080],rtmp://202.39.64.234:1936/live/626
+627号[1920*1080],rtmp://202.39.64.234:1936/live/627
+625号[1920*1080],rtmp://202.39.64.234:1936/live/625
+621号[1280*720],rtmp://202.39.64.234:1936/live/621
+636号[1920*1080],rtmp://202.39.64.234:1936/live/636
+638号[1920*1080],rtmp://202.39.64.234:1936/live/638
+672号[1920*1080],rtmp://202.39.64.234:1936/live/672
+677号[1920*1080],rtmp://202.39.64.234:1936/live/677
+964号[1920*1080],rtmp://202.39.64.234:1936/live/964
+968号[1920*1080],rtmp://202.39.64.234:1936/live/968
+565号[1280*720],rtmp://202.39.64.234:1937/live/565
+567号[1280*720],rtmp://202.39.64.234:1937/live/567
+604号[1920*1080],rtmp://202.39.64.234:1937/live/604
+601号[1280*720],rtmp://202.39.64.234:1937/live/601
+603号[1920*1080],rtmp://202.39.64.234:1937/live/603
+605号[1920*1080],rtmp://202.39.64.234:1937/live/605
+606号[1920*1080],rtmp://202.39.64.234:1937/live/606
+614号[1920*1080],rtmp://202.39.64.234:1937/live/614
+634号[1920*1080],rtmp://202.39.64.234:1937/live/634
+639号[1280*720],rtmp://202.39.64.234:1937/live/639
+633号[1920*1080],rtmp://202.39.64.234:1937/live/633
+640号[1280*720],rtmp://202.39.64.234:1937/live/640
+641号[1280*720],rtmp://202.39.64.234:1937/live/641
+642号[1920*1080],rtmp://202.39.64.234:1937/live/642
+647号[1280*720],rtmp://202.39.64.234:1937/live/647
+659号[1280*720],rtmp://202.39.64.234:1937/live/659
+674号[1280*720],rtmp://202.39.64.234:1937/live/674
+
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 $c_start 韩国$c_end
