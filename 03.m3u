@@ -140,12 +140,12 @@ http://50.7.218.42:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&
 #EXTINF:-1 tvg-id="6153" tvg-name="HBOHits" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" group-title="电影",HBO Hits
 http://iptv.tvfix.org/hls/hbohits.m3u8
 
-#EXTINF:-1 tvg-id="6154" tvg-name="HBOSignature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="港澳台",HBO-原创
+#EXTINF:-1 tvg-id="6154" tvg-name="HBOSignature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="电影",HBO-原创
 http://50.7.218.42:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
-#EXTINF:-1 tvg-id="6154" tvg-name="HBOSignature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="港澳台",HBO-原创
+#EXTINF:-1 tvg-id="6154" tvg-name="HBOSignature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="电影",HBO-原创
 http://50.7.218.42:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://www.dens.tv/images/channel-logo/58.jpg" group-title="韩国", TVN Movies
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://www.dens.tv/images/channel-logo/58.jpg" group-title="电影", TVN Movies
 http://210.210.155.35/session/2940d29c-a0bb-11ec-9eaf-b82a72d63267/dr9445/h/h21/02.m3u8
 
 
