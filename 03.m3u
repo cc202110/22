@@ -634,13 +634,13 @@ http://51.79.193.108:8080/hls/j00033/index.m3u8
 https://tvn-seezn.pip.cjenm.com:443/tvn/_definst_/s5/chunklist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MjI4OTQ5OTUsInBhdGgiOiIvdHZuL19kZWZpbnN0Xy9zNSIsInVubyI6IjE2MjI4OTQ2OTU0MzQzNTU1NSIsImlhdCI6MTYyMjg5NDY5NX0.uTI9slMSRoAbTQ0zGWoEWepnugD9iC-LumyD4dUMJSE&solsessionid=ced1d8fb89dd32a90e5dfa3d317ca053
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国",TJB SBS 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/undefined.jpg" group-title="韩国",TJB SBS 
 http://1.245.74.5:1935/live/tv/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国",KBS World
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/Xm0UT7w.png" group-title="韩国",KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国",KBC(SBS 光州)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/undefined.jpg" group-title="韩国",KBC(SBS 光州)
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国",대전MBC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/MndDLWi.jpg" group-title="韩国",대전MBC
 https://5c482867a8b63.streamlock.net/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="韩国",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/.m3u8
