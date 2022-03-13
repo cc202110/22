@@ -216,8 +216,15 @@ dllb,#genre#
 
 翡翠台,http://dllb.jxin122.top/jj.php?id=78&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 J2,http://dllb.jxin122.top/jj.php?id=74&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-1222
+无线新闻,http://dllb.jxin122.top/jj.php?id=74&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 TVB星河,http://dllb.jxin122.top/jj.php?id=76&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+无线财经,http://dllb.jxin122.top/jj.php?id=79&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+HD603,http://dllb.jxin122.top/jj.php?id=92&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+18,http://dllb.jxin122.top/jj.php?id=59&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+RHK32,http://dllb.jxin122.top/jj.php?id=97&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+
+
+
 开电视,http://dllb.jxin122.top/jj.php?id=95&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 凤凰香港,http://dllb.jxin122.top/jj.php?id=98&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 凤凰资讯,http://dllb.jxin122.top/jj.php?id=99&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
@@ -225,11 +232,28 @@ TVB星河,http://dllb.jxin122.top/jj.php?id=76&p=0&c=3&key=ced06b227baa54c961d63
 民视新闻,http://dllb.jxin122.top/jj.php?id=05&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 年代新闻,http://dllb.jxin122.top/jj.php?id=07&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 非凡新闻,http://dllb.jxin122.top/jj.php?id=06&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+寰宇新闻,http://dllb.jxin122.top/jj.php?id=84&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+
+
+美亚电影,http://dllb.jxin122.top/jj.php?id=89&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+纬来电影,http://dllb.jxin122.top/jj.php?id=09&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+龙祥时代,http://dllb.jxin122.top/jj.php?id=13&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+好莱坞电影,http://dllb.jxin122.top/jj.php?id=54&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+
+
+
+
+纬来综合,http://dllb.jxin122.top/jj.php?id=12&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+纬来日本,http://dllb.jxin122.top/jj.php?id=10&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 天映频道,http://dllb.jxin122.top/jj.php?id=15&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 八大综合,http://dllb.jxin122.top/jj.php?id=22&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 SPOTV,http://dllb.jxin122.top/jj.php?id=16&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 中视新闻,http://dllb.jxin122.top/jj.php?id=19&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+八大娱乐,http://dllb.jxin122.top/jj.php?id=20&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+
 八大第一,http://dllb.jxin122.top/jj.php?id=21&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+三立台湾,http://dllb.jxin122.top/jj.php?id=24&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+三立都会,http://dllb.jxin122.top/jj.php?id=25&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 三立新闻,http://dllb.jxin122.top/jj.php?id=26&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 东森幼幼,http://dllb.jxin122.top/jj.php?id=31&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 东森新闻,http://dllb.jxin122.top/jj.php?id=33&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
@@ -237,6 +261,9 @@ TVBSHD,http://dllb.jxin122.top/jj.php?id=37&p=0&c=3&key=ced06b227baa54c961d63cc2
 东森综合,http://dllb.jxin122.top/jj.php?id=32&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 壹新闻,http://dllb.jxin122.top/jj.php?id=34&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 中天亚洲,http://dllb.jxin122.top/jj.php?id=39&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+中天娱乐,http://dllb.jxin122.top/jj.php?id=40&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+中天综合,http://dllb.jxin122.top/jj.php?id=41&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+中天新闻,http://dllb.jxin122.top/jj.php?id=42&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 公视,http://dllb.jxin122.top/jj.php?id=43&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 民视,http://dllb.jxin122.top/jj.php?id=44&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 华视,http://dllb.jxin122.top/jj.php?id=46&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
@@ -245,7 +272,7 @@ TVBSHD,http://dllb.jxin122.top/jj.php?id=37&p=0&c=3&key=ced06b227baa54c961d63cc2
 澳门体育,http://dllb.jxin122.top/jj.php?id=50&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 澳门,http://dllb.jxin122.top/jj.php?id=51&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 澳门综艺,http://dllb.jxin122.top/jj.php?id=52&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-
+澳门莲花,http://dllb.jxin122.top/jj.php?id=88&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 
 
 
