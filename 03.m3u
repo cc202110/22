@@ -123,7 +123,7 @@ http://50.7.218.42:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=1
 http://iptv.tvfix.org/hls/mydy2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/f3I4eUj.png" group-title="电影",天映频道
-http://dllb.jxin122.top/jj.php?id=15&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+http://iptv.tvfix.org/hls/typd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/j6mjoJW.jpg" group-title="电影",天映经典
 http://iptv.tvfix.org/hls/tyjd.m3u8
