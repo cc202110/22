@@ -110,9 +110,9 @@ https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.
 ----------------------------------------------------------------------------------------------------------------------------
 -------------电影台----------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",星卫电影台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",星卫电影台
 http://50.7.218.42:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",星卫电影台2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",星卫电影台2
 http://50.7.218.42:8278/xingwei_movie/playlist.m3u8?tid=ME6E2875344228753442&ct=18392&tsum=c21fc395d9e540e48d429400b2fb0b05
 
 
