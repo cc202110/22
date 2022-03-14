@@ -131,7 +131,7 @@ http://iptv.tvfix.org/hls/typd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/j6mjoJW.jpg" group-title="电影",天映经典
 http://iptv.tvfix.org/hls/tyjd.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",电影台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",电影台
 http://data.3g.yy.com/live/hls/29900720/29900720
 
 #EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="https://i.imgur.com/0wBTvVv.jpg" group-title="电影",HBO
@@ -167,7 +167,7 @@ http://50.7.218.42:8278/cinemax_twn/playlist.m3u8?tid=mf18038aaba6311485855&ct=1
 
 
 
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台 1
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
 http://dllb.jxin122.top/jj.php?id=78&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台 
@@ -176,7 +176,7 @@ https://cdn.hkdtmb.com/hls/81/index.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台 (中英字幕)
 https://cdn.hkdtmb.com/hls/81b/index.m3u8
 
-#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2台 1
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2台
 http://dllb.jxin122.top/jj.php?id=74&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2台 
@@ -185,14 +185,14 @@ https://cdn.hkdtmb.com/hls/82/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GyM0ORZ.png" group-title="港澳台",TVBJ1
 https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="https://i.imgur.com/GyM0ORZ.png" group-title="港澳台",无线新闻台 1
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="https://i.imgur.com/GyM0ORZ.png" group-title="港澳台",无线新闻台 
 http://dllb.jxin122.top/jj.php?id=74&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="https://i.imgur.com/GyM0ORZ.png" group-title="港澳台",无线新闻台 
 https://cdn.hkdtmb.com/hls/83/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台",无线财经 1
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台",无线财经 
 http://dllb.jxin122.top/jj.php?id=79&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台",无线财经
