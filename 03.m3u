@@ -204,6 +204,8 @@ https://cdn.hkdtmb.com/hls/84/index.m3u8
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台",明珠台 (粤语声道)
 https://cdn.hkdtmb.com/hls/84b/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png group-title="港澳台",TVB星河频道
+http://itv.my.to/gd?id=35&play=2
 
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV
 https://cdn.hkdtmb.com/hls/99/index.m3u8
@@ -233,6 +235,8 @@ https://api.leonardpark.dev/live/icable/109
 https://api.leonardpark.dev/live/icable/108
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线直播新闻台
 https://api.leonardpark.dev/live/icable/110
+
+
 
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkong603.png" group-title="港澳台",香港603
 http://dllb.jxin122.top/jj.php?id=92&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
