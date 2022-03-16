@@ -70,6 +70,9 @@ http://iptv.tvfix.org/hls/russia24.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/640px-HGTV_2010.svg.png" group-title="人文",HGTV居家乐活
 https://h2.ustvgo.la/HGTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIyIDExOjU5OjA4IFBNJmhhc2hfdmFsdWU9MXFzNGRHUFpKTGdsYS9KVCs2bE8xdz09JnZhbGlkbWludXRlcz0yNDA=
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/640px-HGTV_2010.svg.png" group-title="人文",HGTV居家乐活
+http://45.189.117.32:9595/play/a0h1
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="人文",BBCEarth
 http://125.209.88.166:45793/BRN/BBCEarthHD.stream/playlist.m3u8
 
