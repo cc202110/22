@@ -76,9 +76,6 @@ http://125.209.88.166:45793/BRN/BBCEarthHD.stream/playlist.m3u8
 https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="人文" tvg-logo="https://i.imgur.com/uWLe4m2.jpg",国家地理频道
-http://iptv.tvfix.org/hls/natlgeo.m3u8
-
-#EXTINF:-1 group-title="人文" tvg-logo="https://i.imgur.com/uWLe4m2.jpg",国家地理频道
 https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 
 
@@ -87,9 +84,6 @@ http://50.7.218.42:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&c
 
 #EXTINF:-1 tvg-id="discovery" group-title="人文" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/Discovery-logo.png",Discovery
 http://iptv.tvfix.org/hls/discovery.m3u8
-
-#EXTINF:-1 tvg-id="discovery" group-title="人文" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/Discovery-logo.png",Discovery
-http://220.134.196.147:8620/http/116.50.42.18:8081/hls/71/813/ch44.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
 
 #EXTINF:-1 tvg-id="discovery" group-title="人文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png",动物星球
 http://iptv.tvfix.org/hls/animal.m3u8
