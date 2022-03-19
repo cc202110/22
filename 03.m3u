@@ -21,7 +21,7 @@ https://api.leonardpark.dev/live/icable/109
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
 
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="新闻",东森新闻台
-http://dllb.jxin122.top/jj.php?id=33&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
 
 #EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="新闻",CNN
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
@@ -98,7 +98,8 @@ http://220.134.196.147:8620/http/116.50.42.18:8081/hls/71/813/ch44.m3u8?token=73
 #EXTINF:-1 tvg-id="discovery" group-title="人文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png",动物星球
 http://220.134.196.147:8620/http/116.50.42.18:8081/hls/71/813/ch44.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
 
-
+#EXTINF:-1 group-title="韩国" tvg-logo="https://i.imgur.com/5ZY3zbt.jpg",tvN
+http://iptv.tvfix.org/hls/tvn.m3u8
 
 
 
@@ -112,7 +113,7 @@ http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index
 http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO7Z60nQmH%2FQdgWVzAI0y58w%3D%3D%3A20211105223205%2C10000100000000050000000003887498%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8GHvPqK.jpg" group-title="电影",纬来电影台
-http://dllb.jxin122.top/jj.php?id=09&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+http://qq286780.v3.aihost6.top/ccav/ccav.php?id=9
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" group-title="电影",LSTime电影台
 http://dllb.jxin122.top/jj.php?id=13&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
@@ -650,7 +651,7 @@ http://51.79.193.108:8080/hls/j00033/index.m3u8
 --------------------------------------------------------------------
 #EXTINF:-1 group-title="韩国" tvg-logo="https://i.imgur.com/5ZY3zbt.jpg",tvN
 https://tvn-seezn.pip.cjenm.com:443/tvn/_definst_/s5/chunklist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MjI4OTQ5OTUsInBhdGgiOiIvdHZuL19kZWZpbnN0Xy9zNSIsInVubyI6IjE2MjI4OTQ2OTU0MzQzNTU1NSIsImlhdCI6MTYyMjg5NDY5NX0.uTI9slMSRoAbTQ0zGWoEWepnugD9iC-LumyD4dUMJSE&solsessionid=ced1d8fb89dd32a90e5dfa3d317ca053
-
+tvN,http://iptv.tvfix.org/hls/tvn.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qVkxGJ3.jpg" group-title="韩国",TJB SBS 
 http://1.245.74.5:1935/live/tv/.m3u8
